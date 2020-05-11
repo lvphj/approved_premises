@@ -127,3 +127,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PHJ added
+.DS_Store
+env3/
+env33/
+env34/
+env35/
+env36/
+env37/
+env38/
+venv36/
+venv37/
+venv38/
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+*.ppt
+images/
