@@ -1,0 +1,385 @@
+id,appno,tradingname,town,postcode7,country_id,slaughterhouse,x,y,last_yr,last_mth
+1,1007,Frank Bird (Poultry) Ltd,Penrith,CA101NB,1,yes,357081.0,533629.0,2020,5
+2,1077,Joe Simpson (T/A F Simpson and Son),Bishop Auckland,DL135AA,1,yes,412803.0,524280.0,2020,5
+3,1100,2 Sisters Poultry Ltd (TA 2 Sisters Coupar Angus),Coupar Angus,,3,yes,,,2019,12
+4,1101,Anglo Beef Processors UK T/A ABP Perth,Perth,,3,yes,,,2020,5
+5,1103,Neerock Limited (T/A Woodhead Brothers),Turriff,,3,yes,,,2020,5
+6,1106,2Sisters Red Meat Limited (T/A McIntosh Donald),Aberdeen,,3,yes,,,2018,8
+7,1118,Western Isles Council (T/A Stornoway Abattoir),Stornoway,,3,yes,,,2020,5
+8,1121,Scotbeef Inverurie Ltd,Inverurie,,3,yes,,,2020,5
+9,1124,Dunbia (Elgin) Limited,Elgin,,3,yes,,,2018,4
+10,1125,John M Munro Ltd,Dingwall,,3,yes,,,2020,5
+11,1134,Dr Timothy J Fletcher and Nicola R Fletcher (T/A Reediehill Deer Farm),Auchtermuchty,,3,yes,,,2020,5
+12,1135,Archibald MaClean t/a Gearadhmor,Isle of Barra,,3,yes,,,2020,5
+13,1136,Quality Pork Processors Limited,Brechin,,3,yes,,,2020,5
+14,1156,Orkney Meat Processors Limited,Kirkwall,,3,yes,,,2018,10
+15,1160,R Miller Ltd (Meat Wholesaler),Grantown-on-Spey,,3,yes,,,2020,4
+16,1201,Downfield Limited,Cupar,,3,yes,,,2020,5
+17,1505,Vivers Scotlamb Ltd.,Annan,,3,yes,,,2020,5
+18,1511,DS (Slaughterhouse) Ltd,Dunblane,,3,yes,,,2020,5
+19,1516,James Chapman (Butchers) Ltd T/A  Shotts Abattoir,Shotts,,3,yes,,,2020,5
+20,1517,Wishaw Abattoir Ltd,Motherwell,,3,yes,,,2020,5
+21,1535,Sandyford Abattoir (Paisley) Ltd,Paisley,,3,yes,,,2020,5
+22,1541,AK Stoddart Ltd,Ayr,,3,yes,,,2020,5
+23,1542,John Robertson & Sons (Ham Curers) Ltd,Ardrossan,,3,yes,,,2020,5
+24,1560,Scotbeef Ltd,Bridge of Allan,,3,yes,,,2020,5
+25,1571,Ramsay of Carluke Ltd,Carluke,,3,yes,,,2020,5
+26,1584,Lockerbie Abattoir,Lockerbie,,3,yes,,,2020,5
+27,1585,Mull Slaughterhouse Ltd,Isle of Mull,,3,yes,,,2020,5
+28,1598,Dawn Meats UK (T/A Highland Meats),Saltcoats,,3,yes,,,2018,4
+29,1641,Richard Carmichael (T/A Carmichael Estate Farm Meats),Biggar,,3,yes,,,2020,5
+30,1647,Kezie Ltd,Duns,,3,yes,,,2020,5
+31,1659,SAC Commercial Ltd,Ayr,,3,yes,,,2020,5
+32,1679,Scotch Premier Meat Ltd,Sutherland,,3,yes,,,2020,5
+33,1686,John Morrison t/a Lochmaddy Slaughterhouse,Isle Of North Uist,,3,yes,,,2020,5
+34,1717,Barraston Poultry Ltd (T/A Gilchrist Poultry),Glasgow,,3,yes,,,2020,5
+35,1735,Avonvogie Enterprises Ltd,Isle Of Islay,,3,yes,,,2020,5
+36,1736,Hallrule Shoot,Hawick,,3,yes,,,2020,5
+37,1756,SMLG Trading Ltd,Lerwick,,3,yes,,,2020,5
+38,2019,HCF Poultry Ltd,Bradford,BD135HP,1,yes,406519.0,436710.0,2020,5
+39,2023,T Soanes & Son (Poultry) Ltd,Driffield,,1,yes,,,2020,5
+40,2037,2 Sisters Food Group Ltd,Scunthorpe,DN158QW,1,yes,488464.0,413261.0,2020,5
+41,2045,Dovecote Park Ltd,Pontefract,WF8 3DD,1,yes,,,2020,5
+42,2056,Linden Foods Burradon Limited,Cramlington,NE237NB,1,yes,427300.0,572973.0,2020,5
+43,2060,MALTON BACON FACTORY,Malton,YO179HG,1,yes,480288.0,471426.0,2020,5
+44,2066,Thompson (Wholesale Meat) Ltd,Durham,DL140AQ,1,yes,415514.0,531620.0,2020,5
+45,2077,FOYLE MELTON MOWBRAY,Melton Mowbray,LE143PR,1,yes,465290.0,321287.0,2020,5
+46,2085,BW & DJ Glaves & Sons Ltd,Scarborough,YO139DL,1,yes,494457.0,482081.0,2019,6
+47,2088,Richard John Lyth T/A Egton Butchers,Egton,YO211TZ,1,yes,480853.0,506514.0,2020,2
+48,2091,Spenborough Abattoir Ltd,Liversedge,WF156PR,1,yes,420165.0,423795.0,2020,5
+49,2093,Cranswick Country Foods Plc,Hull,HU128TB,1,yes,518518.0,430376.0,2020,5
+50,2095,Hartshead Meats Ltd,Ashton-under-Lyne,,1,yes,,,2020,5
+51,2100,DAWN CARNABY,Bridlington,,1,yes,,,2018,4
+52,2102,N Bramall & Son Ltd,Sheffield,S36 8YB,1,yes,,,2020,5
+53,2108,Blackbrow Abattoir Ltd,Wigton,CA7 0JT,1,yes,,,2020,5
+54,2138,West Scottish Lamb Ltd,Carlisle,CA3 0EH,1,yes,,,2020,5
+55,2139,H C Airey & Sons Ltd,Grange over Sands,LA116JE,1,yes,339818.0,483126.0,2020,5
+56,2141,ABP YORK,York,YO195GH,1,yes,465073.0,452181.0,2020,5
+57,2147,J A Mounfield & Son Ltd,Selby,YO8 6LS,1,yes,,,2020,5
+58,2161,J A Jewitt (Meat) Ltd,Durham,DL167QD,1,yes,424320.0,532177.0,2020,5
+59,2163,PETER BODDY LICENSED SLAUGHTERERS AND GAME DEALERS,Todmorden,OL148RE,1,yes,394473.0,425272.0,2020,5
+60,2168,G & A DENNEY,Lyth,LA8 8DG,1,yes,,,2020,5
+61,2169,CR HORNER,York,,1,yes,,,2020,5
+62,2171,A Traves & Son Ltd,Escrick,YO196TP,1,yes,463112.0,442625.0,2020,5
+63,2172,Foyle Gloucester,Cinderford,GL142PH,1,yes,364814.0,214298.0,2020,5
+64,2175,Richard of Howden Ltd,Goole,DN145SR,1,yes,474171.0,423462.0,2019,12
+65,2188,ROBINSONS BUTCHERS,Durham,TS285AA,1,yes,440073.0,536933.0,2020,5
+66,2198,James White Butchers Ltd,Driffield,YO259QN,1,yes,502520.0,452287.0,2020,5
+67,2199,E V SLACK & SONS,Doncaster,,1,yes,,,2020,5
+68,2241,Woolley Bros (Wholesale Meats) Ltd,Sheffield,S20 3RW,1,yes,,,2020,5
+69,2248,Melton Meat Limited,Melton Mowbray,LE142QN,1,yes,479654.0,312246.0,2020,5
+70,2254,GAMSTON  WOOD OSTRICHES,Retford,DN220RB,1,yes,473320.0,376790.0,2020,5
+71,2285,JOHN PENNY AND SONS,Leeds,LS196NU,1,yes,421432.0,439193.0,2020,5
+72,2288,C WASTENEY AND SONS,Sheffield,S35 8QB,1,yes,,,2020,5
+73,2291,L Wood & Sons,Huddersfield,HD3 3FW,1,yes,,,2020,5
+74,2301,Perdon Organics Ltd,Cullompton,EX151QQ,1,yes,303807.0,107024.0,2020,5
+75,2338,MEDINA GROUP LIMITED,Halifax,,1,yes,,,2020,5
+76,2343,J & E Medcalf Ltd,Halifax,HX4 9BJ,1,yes,,,2020,5
+77,2348,P & R WHITWAM,Huddersfield,HD7 4HB,1,yes,,,2020,5
+78,2358,Milford Farm Ltd,Leeds,LS255LJ,1,yes,446438.0,430894.0,2018,7
+79,2384,NEWHOUSE GAME,Southampton,SO451AB,1,yes,446077.0,100135.0,2020,5
+80,2388,DAWN CUMBRIA,Ulverston,,1,yes,,,2018,4
+81,2397,Rowland Agar (Slaughtering Contractors) Ltd,Ilkley,LS298HX,1,yes,412048.0,447848.0,2020,4
+82,2399,Just Halal Poultry Limited,Bradford,BD3 9RD,1,yes,,,2019,1
+83,2406,G Bolam (Foods) & Sons Ltd,Stockton-on-Tees,TS213EE,1,yes,435674.0,529784.0,2020,5
+84,2413,M & C MEATS,Leeds,LS158DY,1,yes,436399.0,434576.0,2018,12
+85,2430,Yorkshire Abattoir Services Limited,Ossett,,1,yes,,,2020,5
+86,2436,R  NATRASS & SONS,Bishop Auckland,DL131JR,1,yes,390703.0,538225.0,2018,6
+87,2438,McIntyre Meats Ltd,Leyburn,DL8 3EP,1,yes,,,2020,5
+88,2450,Al-Ummah Halal Poultry Limited,Barnsley,S72 9BG,1,yes,,,2018,6
+89,2477,LANGTHORNE'S BUFFALO PRODUCE,Northallerton,DL6 2PD,1,yes,,,2020,5
+90,2501,A. J. Leese Turkeys Ltd,Stoke-on-Trent,ST104HY,1,yes,403040.0,339407.0,2020,5
+91,2503,Two Rivers Produce Limited,Chepstow,NP167LZ,1,yes,355093.0,200608.0,2020,3
+92,2533,FAI Farms Limited,Wytham,OX2 8QJ,1,yes,,,2019,7
+93,2536,Pickstock Telford Limited,Telford,TF1 7FA,1,yes,,,2020,5
+94,2542,Norfolk Quail Limited,Fakenham,NR217AL,1,yes,595091.0,327429.0,2020,5
+95,2569,Severn Valley Lamb,Great Wyrley,WS6 6AY,1,yes,,,2020,5
+96,2585,Zuss Halal,Latchingdon,,1,yes,,,2020,3
+97,2590,Fulton Holdings (Leeds) Limited,Leeds,LS252DP,1,yes,440148.0,435717.0,2020,5
+98,2603,Castlemead Poultry,Radstock,BA3 5UF,1,yes,,,2020,5
+99,2621,Wellcroft Farm Meats,Butterton Leek,ST137TD,1,yes,407169.0,356619.0,2018,7
+100,2630,Charing Meats Limited,Ashford,,1,yes,,,2018,4
+101,2653,Iqbal Poultry,Doncaster,DN8 5JS,1,yes,,,2020,5
+102,2660,Riley Foods Limited,Burnley,BB115PP,1,yes,381664.0,427860.0,2020,5
+103,2667,A J Meats Limited,Birmingham,,1,yes,,,2018,9
+104,2669,Philip Warren & Son,Launceston,PL157ED,1,yes,231834.0,83582.0,2019,5
+105,2690,Simpson & Sons,Redditch,B96 6HH,1,yes,,,2020,5
+106,2696,United Country Foods Ltd,Banham,NR162BX,1,yes,604748.0,288767.0,2018,6
+107,3003,Faccenda Foods (Lincs) Ltd (T/A Avara Foods),Caistor,LN7 6SH,1,yes,,,2020,5
+108,3005,MOY PARK (ASHBOURNE),Ashbourne,,1,yes,,,2020,5
+109,3007,Faccenda Foods Limited,Brackley,NN137EX,1,yes,459223.0,236768.0,2019,6
+110,3008,Noble Foods Limited,Gainsborough,DN211QB,1,yes,483346.0,390280.0,2020,5
+111,3011,Moy Park Ltd,Sleaford,NG349SL,1,yes,511293.0,350304.0,2020,5
+112,4014,Cargill Meats Europe,Hereford,HR4 9PB,1,yes,,,2018,1
+113,4015,A S Audhali Farmgate Fresh Poultry Ltd,Hatton,CV357HZ,1,yes,422243.0,268854.0,2019,4
+114,4017,Highbury Poultry Farm Produce Ltd,Whitchurch,SY132HJ,1,yes,355824.0,335390.0,2020,5
+115,4026,Faccenda Foods Limited,Scropton,DE655PS,1,yes,419934.0,330053.0,2019,6
+116,4030,Bolton Halal Chicken Ltd,Bolton,BL3 6AU,1,yes,,,2018,4
+117,4046,SEAFIELD PEDIGREES LTD,Redditch,B98 9DB,1,yes,,,2019,4
+118,4071,DUNBIA PRESTON,Preston,PR5 6AJ,1,yes,,,2020,5
+119,4083,Cook & Johnson (Butchers) Ltd,St Helens,WA118DQ,1,yes,347658.0,401058.0,2018,4
+120,4085,TULIP FRESH MEATS (ASHTON),Dukinfield,SK164HY,1,yes,394022.0,398626.0,2020,5
+121,4090,F A Gill Limited,Wolverhampton,WV4 6EH,1,yes,,,2020,5
+122,4102,A H GRIFFITHS,Craven Arms,SY7 0LB,1,yes,,,2020,5
+123,4104,A E PEARS & SON,Melton Mowbray,LE144HG,1,yes,477375.0,330851.0,2018,10
+124,4109,ABP SHREWSBURY,Shrewsbury,SY1 4AH,1,yes,,,2020,5
+125,4112,BLACKLIDGE BROS,Wigan,,1,yes,,,2020,5
+126,4113,Noel Chadwick Ltd,Wigan,WN6 0HA,1,yes,,,2019,1
+127,4133,Farmers Fresh Ltd,Kenilworth,CV8 1NN,1,yes,,,2020,5
+128,4137,C Robinson and Sons (Butchers) Ltd,Walsall,WS7 1NR,1,yes,,,2020,1
+129,4138,C E PARTRIDGE & SON LTD,Bromsgrove,B61 0BN,1,yes,,,2020,5
+130,4140,G & G B HEWITT LTD,Chester,CH3 9BH,1,yes,,,2020,5
+131,4152,Beesons Limited,Crewe,CW1 5QF,1,yes,,,2020,5
+132,4156,C H Rowley Ltd,Coventry,CV7 8FU,1,yes,,,2020,5
+133,4168,R B Elliott & Son Ltd,Chesterfield,S44 5UN,1,yes,,,2020,5
+134,4182,Janan Meat Limited,Kingswinford,,1,yes,,,2020,5
+135,4197,N TM AND EM BASKEYFIELD,Newcastle-under-lyme,ST5 7AJ,1,yes,,,2020,5
+136,4199,BATES WHOLESALE BUTCHERS,Birmingham,B11 4AA,1,yes,,,2019,7
+137,4202,H G BEARD BUTCHERS,Stockport,SK7 1AF,1,yes,,,2020,5
+138,4225,C Brumpton Butchers Ltd,Nottingham,NG123HT,1,yes,464317.0,335246.0,2020,5
+139,4227,Cheshire Halal Meats Limited,Stockport,SK4 1BJ,1,yes,,,2018,2
+140,4236,Long Compton Abattoir Ltd,Shipston-on-Stour,CV365JJ,1,yes,428805.0,233012.0,2020,5
+141,4242,Peter Coates Alrewas Ltd,Burton-on-Trent,DE137AE,1,yes,417173.0,315017.0,2020,5
+142,4256,H.P. Westwood Limited,Burntwood,WS7 1JL,1,yes,,,2020,5
+143,4261,Edge & Son,Wirral,CH621AB,1,yes,333762.0,385300.0,2020,5
+144,4269,J & B Fitton Ltd,Oldham,,1,yes,,,2020,5
+145,4276,A J GREEN & SONS,Stoke-on-Trent,ST6 4QH,1,yes,,,2020,5
+146,4286,Lawn Farm Meats,Cheadle,ST102NJ,1,yes,399146.0,343925.0,2020,5
+147,4294,E & T Jackson & Sons,Knutsford,WA160JA,1,yes,371307.0,379014.0,2020,5
+148,4295,W JAMES,Stoke on Trent,ST2 7HL,1,yes,,,2020,5
+149,4298,A Johnson & Son Ltd,Yoxall,DE138NB,1,yes,413807.0,319296.0,2018,9
+150,4303,James Law Ltd,Bacup,OL138NJ,1,yes,385420.0,422291.0,2018,8
+151,4319,ROBIN MAYCOCK BUTCHERS,Matlock,DE4 5AT,1,yes,,,2020,5
+152,4322,J W Mettrick & Son Ltd,Glossop,SK138HZ,1,yes,403296.0,393736.0,2020,5
+153,4326,C. S. Morphet and Sons Limited,Widnes,WA8 5PP,1,yes,,,2020,5
+154,4327,Joseph Morris Butchers Ltd,Lutterworth,LE176EG,1,yes,460304.0,281951.0,2020,5
+155,4330,WH & TR NEWTON T/A NEWTON BROTHERS,Crewe,,1,yes,,,2020,5
+156,4331,W Nixon & Sons Ltd,Cheadle,,1,yes,,,2020,5
+157,4333,University of Nottingham,Loughborough,LE125RD,1,yes,450511.0,326133.0,2020,5
+158,4349,Perry's of Eccleshall Limited,Eccleshall,ST216BL,1,yes,383180.0,329126.0,2020,5
+159,4357,F Redfern,Buxton,SK179HT,1,yes,406796.0,370780.0,2020,5
+160,4367,T G SARGEANT AND SONS,Uttoxeter,ST145BG,1,yes,406246.0,333150.0,2020,5
+161,4373,Staffordshire Meat Packers Ltd,Stoke-on-Trent,ST2 9DL,1,yes,,,2020,5
+162,4379,Higginshaw Abattoir Ltd,Oldham,OL2 6HQ,1,yes,,,2020,5
+163,4380,Robert E Taylor (T/A A E Taylor & Son),Nottingham,NG130BX,1,yes,480692.0,338987.0,2020,5
+164,4381,WILLIAM TAYLOR & SON (PIG SALESMEN) LIMITED,Preston,,1,yes,,,2020,5
+165,4392,Robert G Tuckey Ltd,Birmingham,B46 2LG,1,yes,,,2020,5
+166,4406,Wild's Butchers Limited (T/A A J Wild),Sudbury,DE6 5HZ,1,yes,,,2020,5
+167,4451,Euro Quality Lambs Limited,Craven Arms,SY7 9PA,1,yes,,,2020,5
+168,4464,Bickerton Bros Ltd,Stoke-on-Trent,ST119EG,1,yes,394651.0,343562.0,2020,5
+169,4471,WOODHEAD BROS,Colne,BB8 8LH,1,yes,,,2020,5
+170,4484,Marcus Stevens,Lutterworth,LE175BS,1,yes,450621.0,287623.0,2019,6
+171,4486,DUNBIA SAWLEY,Clitheroe,BB7 4LH,1,yes,,,2020,5
+172,4496,Birmingham Halal Abattoir Ltd,Birmingham,B5  7EJ,1,yes,,,2020,5
+173,4534,Marsh Poultry Ltd,Preston,PR4 6LJ,1,yes,,,2020,5
+174,4538,SPRINGFIELD POULTRY,Leominster,HR6 0LU,1,yes,,,2020,5
+175,4539,HASHAMS HALAL POULTRY,Birmingham,B10 9EJ,1,yes,,,2020,5
+176,4557,LEICESTERSHIRE FARM FRESH TURKEYS,Leicester,,1,yes,,,2020,5
+177,4559,TAJ & CO,Birmingham,B19 1DG,1,yes,,,2020,5
+178,4562,AHMED JEEWA & SONS,Walsall,WS1 4JJ,1,yes,,,2020,5
+179,4566,Staffordshire Meat Packers Ltd,Wilmslow,,1,yes,,,2018,10
+180,4568,BAILEYS TURKEYS,Knutsford,WA160PN,1,yes,372292.0,379692.0,2020,5
+181,4571,HEATH'S TURKEYS,Stoke-on-Trent,ST9 9QW,1,yes,,,2018,11
+182,4574,JOHNSON & SWARBRICK GOOSNARGH LTD,Preston,PR3 2JU,1,yes,,,2020,5
+183,4637,Halal Poultry and Meat Products Ltd,Warley,B66 2NU,1,yes,,,2020,3
+184,4649,M Najib and Sons Ltd,Foston,DE655PW,1,yes,421365.0,331385.0,2020,5
+185,4686,S Colliers Butchers Limited,Swadlincote,DE118JA,1,yes,430185.0,319585.0,2020,5
+186,4702,Caldecott Turkey Farms Ltd,Wythall,B47 6NG,1,yes,,,2020,5
+187,4707,Wootton Organic Wholesale Ltd.,Oakamoor,ST103BZ,1,yes,407217.0,345545.0,2020,5
+188,4765,Kosher Poultry Limited,Manchester,M8  8RQ,1,yes,,,2020,5
+189,4770,Medina Pure Halal UK Ltd,Oldbury,B69 4EH,1,yes,,,2020,5
+190,4771,Munir Brothers Halal Poultry Ltd,Halesowen,,1,yes,,,2020,5
+191,4795,Highgate Meats Ltd,Penrith,CA110SG,1,yes,340513.0,527648.0,2019,6
+192,4800,Gafoor Pure Halal Ltd,Preston,PR1 5AJ,1,yes,,,2020,5
+193,4812,DEER 'N DEXTER,Penrith,,1,yes,,,2020,5
+194,4826,States of Jersey Abattoir,Jersey,JE2 3NX,6,yes,,,2020,5
+195,4847,Halal Services Company Ltd,Lancaster,LA1 3JQ,1,yes,,,2020,5
+196,5002,Jack Brand Limited,Ipswich,,1,yes,,,2020,5
+197,5003,Diaper Poultry Ltd,Stowmarket,IP143JN,1,yes,601193.0,262027.0,2020,5
+198,5004,GRESSINGHAM FOODS,Diss,,1,yes,,,2020,5
+199,5007,Crown Chicken Ltd,Diss,IP215TL,1,yes,624931.0,279806.0,2020,5
+200,5008,1Stop Halal Limited,Eye,IP237AJ,1,yes,614371.0,273759.0,2019,11
+201,5011,2 Sisters Food Group Ltd,Bungay,NR351NT,1,yes,630911.0,285923.0,2020,5
+202,5023,Leonard Ames (Ampthill) Ltd,Ampthill,MK452NX,1,yes,502674.0,236529.0,2020,5
+203,5028,A D HARVEY,Norwich,,1,yes,,,2020,5
+204,5041,K Poultry Limited,Bow,E3  2NR,1,yes,,,2020,5
+205,5049,Bernard Matthews Foods Limited,Halesworth,IP198NJ,1,yes,640258.0,278913.0,2020,5
+206,5055,A P Burlton (Farms) Limited,Royston,SG8 6JP,1,yes,,,2020,5
+207,5067,IHP Ltd,Bovingdon,HP3 0NQ,1,yes,,,2020,5
+208,5069,Gressingham Foods Ltd,Woodbridge,,1,yes,,,2020,5
+209,5088,A & G Barber Ltd,Chelmsford,,1,yes,,,2020,2
+210,5090,Elmkirk Limited,Brentwood,CM133EN,1,yes,560567.0,188509.0,2020,5
+211,5091,DALEHEAD  FOODS (A DIVISION OF TULIP),Spalding,,1,yes,,,2020,5
+212,5094,P J STEVENS FAMILY BUTCHER,Boston,PE220LE,1,yes,537703.0,343858.0,2020,5
+213,5106,DAWN CARDINGTON,Bedford,,1,yes,,,2018,4
+214,5116,Dovecote Park (Skellingthorpe) Ltd,Lincoln,LN6 5TX,1,yes,,,2020,5
+215,5120,N V GAGEN & SON,Wisbech,PE134ND,1,yes,542358.0,311840.0,2020,5
+216,5130,EVANS & SONS,Bedford,MK430LT,1,yes,499045.0,243444.0,2020,5
+217,5144,C A LEECH & SONS,Royston,SG8 6DX,1,yes,,,2020,5
+218,5154,H J HELLETT & SONS,Huntingdon,PE280HL,1,yes,510087.0,267785.0,2020,5
+219,5177,Lincolnshire Meat Company Ltd,Grantham,NG317DA,1,yes,490967.0,335734.0,2020,5
+220,5184,A WRIGHT  & SON,Boston,,1,yes,,,2020,5
+221,5203,H DAWSON & SONS,Boston,PE216HB,1,yes,532897.0,344022.0,2020,5
+222,5204,L Brown & Sons Wholesale Butchers Ltd,Lincoln,LN3 4NL,1,yes,,,2020,5
+223,5207,H G Blake (Costessey) Ltd,Norwich,NR104DU,1,yes,616543.0,316419.0,2020,5
+224,5213,Cranswick Country Food PLC,Thetford,,1,yes,,,2020,5
+225,5215,J E HOWARD BUTCHERS AND HOWARD'S ABATTOIR,Kings Lynn,PE321QJ,1,yes,572300.0,319419.0,2020,1
+226,5217,J W SARGEANT,Kings Lynn,PE343PP,1,yes,561097.0,306985.0,2020,5
+227,5218,ARTHUR HOWELL,Wells Next The Sea,NR231AN,1,yes,591678.0,343666.0,2019,2
+228,5241,Ruse & Son Ltd,Sudbury,CO109JF,1,yes,586408.0,245762.0,2019,7
+229,5251,DENHAM ESTATE,Bury St Edmunds,,1,yes,,,2019,2
+230,5269,C HUMPHREYS & SONS,Chelmsford,CM3 2BH,1,yes,,,2020,5
+231,5280,Fowler Bros (Latchingdon) Ltd,Burnham-on-Crouch,CM0 8NA,1,yes,,,2020,5
+232,5319,Romford Halal Meats Ltd,Upminster,RM141TH,1,yes,558010.0,188860.0,2020,5
+233,5345,GST Limited,Braintree,CM7 5BA,1,yes,,,2020,5
+234,5388,Kelly Turkey Farms Limited,Chelmsford,CM2 7TB,1,yes,,,2020,5
+235,5392,C J BYFORD & SON,Little Clacton,,1,yes,,,2020,5
+236,5415,Telmara Farm Ltd,Saffron Walden,CB113LZ,1,yes,557379.0,231330.0,2018,3
+237,5450,Traditional Norfolk Poultry Ltd,Attleborough,NR171DS,1,yes,598711.0,293065.0,2020,5
+238,5464,Banham Poultry (2018) Ltd,Attleborough,NR172AT,1,yes,605279.0,294892.0,2020,5
+239,5491,MUSLIM HALAL LIVE POULTRY,London,E1  2LP,1,yes,,,2018,6
+240,5513,WOODHEAD BROTHERS,Spalding,PE113YY,1,yes,525219.0,324634.0,2020,5
+241,5519,C & K Meats Ltd,Eye,IP237HE,1,yes,613340.0,275496.0,2020,5
+242,6060,P.C.Turner - Wholesale Butcher,Farnborough,GU146JS,1,yes,487711.0,154070.0,2020,5
+243,6067,Tottingworth Farms Ltd,Heathfield,TN218TH,1,yes,560351.0,121845.0,2020,5
+244,6107,T. Allman Butchers Limited,Edenbridge,,1,yes,,,2020,5
+245,6116,Forge Farm Meats Ltd,Southborough,,1,yes,,,2020,5
+246,6128,Ken Ballard Ltd,Tonbridge,TN129HZ,1,yes,574101.0,144610.0,2020,5
+247,6130,S W DOUGHTY,Sittingbourne,ME9 0BH,1,yes,,,2020,5
+248,6135,BRAMBLE FARM,West Horsley,KT246AP,1,yes,508456.0,152518.0,2019,7
+249,6207,Mutchmeats Ltd,Witney,OX297GX,1,yes,434628.0,208277.0,2020,5
+250,6238,ABP GUILDFORD,Guildford,GU1 1RP,1,yes,,,2020,5
+251,6298,Copas Traditional Turkeys Ltd,Maidenhead,SL6 9UB,1,yes,,,2020,5
+252,6326,J R Farm Meats Ltd,Canterbury,CT3 3HN,1,yes,,,2020,5
+253,6342,STM (Sussex) Ltd,Henfield,,1,yes,,,2020,5
+254,6359,Laverstoke Park Farm Ltd,Basingstoke,RG253DR,1,yes,451910.0,146831.0,2018,5
+255,6391,Turrill Hill Farm,Hampshire,RG253DR,1,yes,451910.0,146831.0,2018,2
+256,7002,2 Sisters Food Group Limited T/A 2 Sisters Llangefini,Llangefni,LL777UX,2,yes,246170.0,375029.0,2020,5
+257,7009,2 Sisters Food Group Limited T/A 2 Sisters Sandycroft,Deeside,CH5 2QP,2,yes,,,2020,5
+258,7015,Dunbia (Wales) (T/A Dunbia Llanybydder),Llanybydder,SA409QE,2,yes,253005.0,244560.0,2020,5
+259,7023,Evan Roberts T/A E Roberts and Sons,Blaenau Ffestiniog,LL414PY,2,yes,271610.0,340732.0,2019,3
+260,7036,M K (Wales) Ltd T/A (Maddock Kembery Meats),Maesteg,CF340NW,2,yes,286167.0,190921.0,2020,5
+261,7046,William Arthur James (T/A WA James Butchers),Raglan,NP152EB,2,yes,341080.0,207652.0,2020,5
+262,7047,Maelor Foods Limited,Wrexham,LL130UE,2,yes,338611.0,346687.0,2020,5
+263,7048,Hugh Phillips Gower Butcher,Swansea,SA4 3TB,2,yes,,,2020,5
+264,7069,Williams Lloyd Williams and Son Limited,Machynlleth,SY208AA,2,yes,274578.0,300823.0,2020,5
+265,7072,WJ George (Butchers) Ltd,Brecon,LD3 0PD,2,yes,,,2020,5
+266,7084,Huw Evans & Morag Evans (T/A Cig Oen Caron),Tregaron,SY256NJ,2,yes,268825.0,259443.0,2020,5
+267,7096,ET Jones Sons & Daughter,Holyhead,LL653TU,2,yes,233408.0,380395.0,2020,5
+268,7099,Conwy Valley Meats Limited,Llanrwst,LL260DG,2,yes,279780.0,361931.0,2020,5
+269,7103,David Thomas James Thomas Stephen Thomas & Simeon Thomas (T/A D & J Thomas),Wrexham,LL141AF,2,yes,329110.0,346388.0,2020,5
+270,7105,Cyril Jones and Stephen Jones T/A Jones Brothers,Wrexham,LL114YF,2,yes,332171.0,351990.0,2020,5
+271,7110,William E Edwards & Glyn Davies (T/A J Williams & Co),Denbigh,LL163BS,2,yes,305720.0,366399.0,2018,10
+272,7132,Fairfield Meat Company Limited,Wrexham,LL130TS,2,yes,337336.0,347909.0,2018,3
+273,7135,Randall Parker Foods Ltd,Llanidloes,SY186LX,2,yes,299524.0,285379.0,2020,5
+274,7147,John B Evans & Robert W Evans (T/A GR Evans & Co),Corwen,LL219BU,2,yes,307642.0,345084.0,2020,5
+275,7161,Capestone Organic Poultry Limited,Haverfordwest,SA623DY,2,yes,186459.0,209697.0,2020,5
+276,7164,Usk Vale Poultry Ltd,Pontypool,,2,yes,,,2020,5
+277,7176,2 Sisters Red Meat Ltd T/A St Merryn Foods - Merthyr Tydfil,Merthyr Tydfil,CF482TA,2,yes,307802.0,208695.0,2018,8
+278,7182,David T Havard,Caerphilly,CF831NF,2,yes,313792.0,185441.0,2020,5
+279,7198,Cig Calon Cymru 2010 CYF T/A Cig Calon Cymru,Llanelli,SA146RX,2,yes,257290.0,212608.0,2020,5
+280,8005,2 Sisters Food Group Ltd,Cullompton,EX152PJ,1,yes,303034.0,111131.0,2020,5
+281,8013,Creedy Carver Limited,Crediton,EX174AF,1,yes,285070.0,102082.0,2020,5
+282,8016,Freemans of Newent Ltd,Newent,GL181HP,1,yes,372983.0,225708.0,2020,5
+283,8019,OTTER VALLEY POULTRY LIMITED,Honiton,EX149QD,1,yes,319898.0,106787.0,2020,5
+284,8025,MANOR FARM DEER,Bristol,BS484AQ,1,yes,346894.0,167203.0,2019,2
+285,8037,University of Bristol,Bristol,BS405DU,1,yes,345904.0,160742.0,2020,5
+286,8046,DAWN TREBURLEY,Launceston,,1,yes,,,2018,4
+287,8061,TULIP FRESH MEATS (WESTERLEIGH),Bristol,BS378QZ,1,yes,368898.0,179187.0,2020,5
+288,8068,COMBE MARTIN MEATS,Ilfracombe,EX340NS,1,yes,258892.0,145896.0,2020,5
+289,8070,P J HAYMAN & SONS,Ottery St Mary,EX111PQ,1,yes,312443.0,96569.0,2020,5
+290,8071,Dawn West Devon,Okehampton,,1,yes,,,2018,4
+291,8072,P J KING & SON,Gloucester,GL4 0UG,1,yes,,,2020,5
+292,8073,ST MERRYN FOODS BODMIN,Bodmin,PL312QB,1,yes,208344.0,67135.0,2018,8
+293,8101,EAST HILL PRIDE,Ottery St Mary,EX111QQ,1,yes,311915.0,94445.0,2020,5
+294,8113,H R Jasper and Son Ltd,Launceston,PL157JL,1,yes,228799.0,81803.0,2020,5
+295,8115,R J TREVARTHEN WHOLESALE BUTCHERS,Penryn,TR109AP,1,yes,176362.0,35858.0,2020,5
+296,8117,Vivian Olds Ltd,Penzance,TR197HS,1,yes,136901.0,31523.0,2020,5
+297,8119,Alec Jarrett Limited,Bristol,BS309TN,1,yes,368096.0,172169.0,2020,5
+298,8122,NANTEAGUE ABATTOIR,Truro,,1,yes,,,2020,5
+299,8145,J Broomhall Ltd,Gloucester,GL103AA,1,yes,377435.0,205363.0,2020,5
+300,8149,Bakers of Nailsea Limited,Nailsea,BS484DD,1,yes,344418.0,169022.0,2020,5
+301,8165,Universal Traders Gloucester Ltd,Gloucester,GL2 8JX,1,yes,,,2020,5
+302,8184,A C Hopkins (Taunton) Ltd,Taunton,TA3 5PN,1,yes,,,2020,5
+303,8189,C M Howard and Sons,Frome,BA111PT,1,yes,377795.0,147904.0,2019,11
+304,8191,C SNELL WHOLESALE,Chard,TA202NY,1,yes,332379.0,104495.0,2020,5
+305,8193,STRAP ORCHARD ABATTOIR,Wincanton,BA9 9EE,1,yes,,,2020,5
+306,8201,F Drury & Sons Limited,Swindon,SN4 7PF,1,yes,,,2020,5
+307,8207,ABP STURMINSTER,Sturminster Newton,DT101HA,1,yes,380450.0,115269.0,2020,5
+308,8216,ABP Yetminster,Sherborne,DT9 6HQ,1,yes,,,2020,5
+309,8217,S J NORMAN  & SONS,Bridport,DT6 3SF,1,yes,,,2020,5
+310,8229,W S CLARKE & SONS,Salisbury,SP5 5ND,1,yes,,,2020,5
+311,8231,Stillmans (Somerset) Ltd,Taunton,TA2 6PX,1,yes,,,2020,5
+312,8241,T & H Lobb Limited,Bodmin,PL305LY,1,yes,201402.0,66755.0,2020,5
+313,8249,H F Stiles & Son Ltd,Chippenham,SN152ED,1,yes,396147.0,165951.0,2020,5
+314,8250,W J PEARCE  AND SONS,Bristol,BS408PR,1,yes,357314.0,163112.0,2020,5
+315,8285,ABP LANGPORT,Langport,TA109HG,1,yes,342868.0,126218.0,2020,5
+316,8301,Gages Farm Ltd,Ashburton,,1,yes,,,2020,5
+317,8308,J V Richards (Rietfontein) Ltd,Truro,,1,yes,,,2020,5
+318,8342,CORNISH FARMHOUSE BACON COMPANY,Holsworthy,EX226LE,1,yes,227871.0,98585.0,2020,5
+319,8354,C and S Meats Ltd,Sherbourne,DT9 6HX,1,yes,,,2020,5
+320,8357,J AND J FARMERS ABATTOIR,Holsworthy,EX226RL,1,yes,229755.0,97102.0,2020,5
+321,8369,Tideford Abattoir Limited,Saltash,PL125HN,1,yes,234936.0,59845.0,2019,3
+322,9001,ABP Holdings Ltd (Trading as ABP (Newry),NEWRY,BT342PD,4,yes,,,2020,5
+323,9012,Dunbia (Northern Ireland),DUNGANNON ,BT701NJ,4,yes,,,2020,5
+324,9016,Foyle Meats Ltd,LONDONDERRY,BT476TJ,4,yes,,,2020,5
+325,9021,William Grant & Co Ltd,LONDONDERRY ,BT488JP,4,yes,,,2020,5
+326,9023,Linden Foods Ltd,DUNGANNON ,BT701NJ,4,yes,,,2020,5
+327,9033,ABP(Lurgan) Ltd,CRAIGAVON,BT679JD,4,yes,,,2020,5
+328,9042,Foyle Omagh Ltd,OMAGH,BT790BQ,4,yes,,,2020,5
+329,9045,Cranswick Country Foods (Ballymena),BALLYMENA,BT421EA,4,yes,,,2020,5
+330,9052,Karro Food Group Ltd,COOKSTOWN ,BT808PJ,4,yes,,,2020,5
+331,9056,W D Meats Ltd,COLERAINE,BT522JR,4,yes,,,2020,5
+332,9080,Primestock Meats,Lurgan,BT679JD,4,yes,,,2020,5
+333,9131,Lakeview Farm Meats Ltd,Crumlin,BT294RS,4,yes,,,2020,5
+334,9502,Moy Park Ltd,DUNGANNON ,BT716LN,4,yes,,,2020,5
+335,9508,H.K. Dickey(t/a Dickeys Poultry),Cullybackey,BT421EG,4,yes,,,2018,5
+336,9509,Moy Park Ballymena,BALLYMENA       ,BT423HA,4,yes,,,2020,5
+337,9518,McKeown Fine Foods Ltd,BALLYMENA,BT448RN,4,yes,,,2020,5
+338,9552,Kearns Poultry,BALLYMENA ,BT449AA,4,yes,,,2020,5
+339,9554,Rockvale Poultry,ARMAGH,BT619ND,4,yes,,,2020,5
+340,GX401,State of Guernsey Abattoir,Guernsey,GY2 4JN,5,yes,,,2019,8
+341,4014,Freemans of Newent Limited,Hereford,HR4 9PB,1,yes,,,2020,5
+342,5001,Bernard Matthews Foods Ltd,Norwich,NR9 5QD,1,yes,,,2018,3
+343,7132,Farmers Fresh (Wales) Limited,Wrexham,LL130TS,2,yes,337336.0,347909.0,2020,5
+344,1598,Dunbia (UK),Saltcoats,,3,yes,,,2020,5
+345,2100,Dunbia Carnaby,Bridlington,,1,yes,,,2020,5
+346,2388,Dunbia Cumbria,Ulverston,,1,yes,,,2020,5
+347,2630,Agro Foods (Ashford) Limited,Ashford,,1,yes,,,2019,8
+348,4030,Northern Poultry UK Limited,Bolton,BL3 6AU,1,yes,,,2018,9
+349,5106,Dunbia Cardington,Bedford,MK443SB,1,yes,508818.0,249106.0,2020,5
+350,8046,Dunbia  Treburley,Launceston,,1,yes,,,2019,3
+351,8071,Dunbia West Devon,Okehampton,,1,yes,,,2020,5
+352,1216,Pasture-to-Plate,Gordon,,3,yes,,,2020,5
+353,2450,AL UMMAH LIMITED,Barnsley,S72 9BG,1,yes,,,2020,5
+354,2670,Manifold Valley Meats,Leek,ST137TT,1,yes,408365.0,353435.0,2020,5
+355,4073,ABP ELLESMERE,Ellesmere,SY129BL,1,yes,339643.0,328883.0,2020,5
+356,5264,Sweetland Ltd,Great Dunmow,CM6 1DA,1,yes,,,2019,1
+357,1106,Kepak Group Limited,Aberdeen,,3,yes,,,2020,5
+358,7176,Kepak Food Group Limited,Merthyr Tydfil,CF482TA,2,yes,307802.0,208695.0,2020,5
+359,8073,Kepak Food Group Limited,Bodmin,PL312QB,1,yes,208344.0,67135.0,2018,10
+360,2662,Norfolk Meat Traders Ltd,Banham,NR162BX,1,yes,604748.0,288767.0,2019,7
+361,8073,St Merryn Bodmin,Bodmin,PL312QB,1,yes,208344.0,67135.0,2020,5
+362,IOM1,Isle of Man Meats,Isle of Man,IM4 4QE,7,yes,,,2020,5
+363,2399,Chai Meats Limited,Bradford,BD3 9RD,1,yes,,,2020,5
+364,5218,Arthur J Howell & Son,Wells Next The Sea,NR231AN,1,yes,591678.0,343666.0,2020,5
+365,7023,Cig Eryri - Snowdonia Meats Cyf,Blaenau Ffestiniog,LL414PY,2,yes,271610.0,340732.0,2020,5
+366,4015,A.S. Audhali Farm Gate Fresh Poultry Limited,Hatton,CV357HZ,1,yes,422243.0,268854.0,2019,6
+367,2368,J S Quality Meats Limited,Uttoxeter,ST145AA,1,yes,409599.0,334548.0,2020,5
+368,2748,S and Y abattoir Ltd,Bacup,OL130ET,1,yes,385862.0,421772.0,2019,12
+369,3007,Faccenda Foods Limited (T/A Avara Foods),Brackley,NN137EX,1,yes,459223.0,236768.0,2020,5
+370,4015,Shafa Farm Limited,Hatton,CV357HZ,1,yes,422243.0,268854.0,2020,5
+371,4026,Faccenda Foods Limited (T/A Avara Foods),Scropton,DE655PS,1,yes,419934.0,330053.0,2020,5
+372,7226,Picton Quality Meats Limited,Pembrokeshire,SA624BS,2,yes,196290.0,218525.0,2019,8
+373,2662,Moor Farm Meats Limited,Banham,NR162BX,1,yes,604748.0,288767.0,2020,3
+374,4199,Leansale Limited (TA Roopyal Laham Halaal Butchers),Birmingham,B11 4AA,1,yes,,,2020,5
+375,4227,Manchester Abattoir Ltd,Stockport,SK4 1BJ,1,yes,,,2020,5
+376,9301,DMP Foods Ltd,Crumlin,BT294RS,4,yes,,,2020,5
+377,7226,Euro Farm Wales,Pembrokeshire,SA624BS,2,yes,196290.0,218525.0,2020,5
+378,2750,Cranswick Country Foods Eye,Yaxley,IP238BW,1,yes,612907.0,274817.0,2020,5
+379,5008,Shazan Foods Limited,Eye,IP237AJ,1,yes,614371.0,273759.0,2020,5
+380,1100,2 Sisters Food Group Ltd,Coupar Angus,,3,yes,,,2020,5
+381,2762,H M Venison Ltd,Barnsley,S75 3DR,1,yes,,,2020,5
+382,2761,Westcountry Premium Venison Ltd,Launceston,PL158QN,1,yes,220362.0,84902.0,2020,5
+383,2768,Farm Fresh Quality Foods Co. Ltd,Ashford,TN270JL,1,yes,595437.0,148950.0,2020,5
+384,1160,Millers of Speyside,Grantown-on-Spey,,3,yes,,,2020,5
