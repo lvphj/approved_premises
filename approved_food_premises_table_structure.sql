@@ -7,7 +7,7 @@
 #
 # Host: localhost (MySQL 8.0.17)
 # Database: ccir_data
-# Generation Time: 2020-11-17 15:52:43 +0000
+# Generation Time: 2020-11-17 18:25:24 +0000
 # ************************************************************
 
 
@@ -72,6 +72,22 @@ CREATE TABLE `country` (
   UNIQUE KEY `country_UNIQUE` (`country`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
+LOCK TABLES `country` WRITE;
+/*!40000 ALTER TABLE `country` DISABLE KEYS */;
+
+INSERT INTO `country` (`id`, `country`)
+VALUES
+	(1,'England'),
+	(5,'Guernsey'),
+	(7,'Isle of Man'),
+	(6,'Jersey'),
+	(999,'missing'),
+	(4,'Northern Ireland'),
+	(3,'Scotland'),
+	(2,'Wales');
+
+/*!40000 ALTER TABLE `country` ENABLE KEYS */;
+UNLOCK TABLES;
 
 
 
