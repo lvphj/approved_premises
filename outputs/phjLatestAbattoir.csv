@@ -1,456 +1,464 @@
 id,appno,tradingname,town,postcode7,country_id,allactivities,slaughterhouse,x,y,last_yr,last_mth
-1,1007,Frank Bird (Poultry) Ltd,Penrith,CA101NB,1,cutting plant (poultry) cold store slaughterhouse (poultry),yes,357081.0,533629.0,2020,11
-2,1077,Joe Simpson (T/A F Simpson and Son),Bishop Auckland,DL135AA,1,cutting plant (red) game handling establishment (wild game) slaughterhouse (red),yes,412803.0,524280.0,2020,11
+1,1007,Frank Bird (Poultry) Ltd,Penrith,CA101NB,1,cutting plant (poultry) cold store slaughterhouse (poultry),yes,357081.0,533629.0,2021,8
+2,1077,Joe Simpson (T/A F Simpson and Son),Bishop Auckland,DL135AA,1,cutting plant (red) game handling establishment (wild game) slaughterhouse (red),yes,412803.0,524280.0,2021,8
 3,1100,2 Sisters Poultry Ltd (TA 2 Sisters Coupar Angus),Coupar Angus,,3,cutting plant (poultry) mince meat establishment slaughterhouse (poultry),yes,,,2019,12
-4,1101,Anglo Beef Processors UK T/A ABP Perth,Perth,,3,mince meat establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-5,1103,Neerock Limited (T/A Woodhead Brothers),Turriff,,3,mince meat establishment meat preparation establishment processing plant (meat) processing plant (rendered animal fats) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
+4,1101,Anglo Beef Processors UK T/A ABP Perth,Perth,,3,mince meat establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+5,1103,Neerock Limited (T/A Woodhead Brothers),Turriff,,3,mince meat establishment meat preparation establishment processing plant (meat) processing plant (rendered animal fats) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
 6,1106,2Sisters Red Meat Limited (T/A McIntosh Donald),Aberdeen,,3,"cold store, re-wrappingand repackaging establishment, mince meat establishment, slaughterhouse (red), cutting plant (red)",yes,,,2018,8
-7,1118,Western Isles Council (T/A Stornoway Abattoir),Stornoway,,3,cutting plant (red) mince meat establishment processing plant (meat) processing plant (rendered animal fats) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-8,1121,Scotbeef Inverurie Ltd,Inverurie,,3,cutting plant (red) processing plant (meat) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
+7,1118,Western Isles Council (T/A Stornoway Abattoir),Stornoway,,3,cutting plant (red) mince meat establishment processing plant (meat) processing plant (rendered animal fats) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+8,1121,Scotbeef Inverurie Ltd,Inverurie,,3,cutting plant (red) processing plant (meat) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
 9,1124,Dunbia (Elgin) Limited,Elgin,,3,"cutting plant (red), slaughterhouse (red), meat preparation establishment",yes,,,2018,4
-10,1125,John M Munro Ltd,Dingwall,,3,cutting plant (red) cutting plant (farmed game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red) slaughterhouse (farmed game),yes,,,2020,11
+10,1125,John M Munro Ltd,Dingwall,,3,cutting plant (red) cutting plant (farmed game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red) slaughterhouse (farmed game),yes,,,2021,8
 11,1134,Dr Timothy J Fletcher and Nicola R Fletcher (T/A Reediehill Deer Farm),Auchtermuchty,,3,slaughterhouse (red),yes,,,2020,9
-12,1135,Archibald MaClean t/a Gearadhmor,Isle of Barra,,3,cutting plant (red) mince meat establishment slaughterhouse (red),yes,,,2020,11
-13,1136,Quality Pork Processors Limited,Brechin,,3,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
+12,1135,Archibald MaClean t/a Gearadhmor,Isle of Barra,,3,cutting plant (red) mince meat establishment slaughterhouse (red),yes,,,2021,8
+13,1136,Quality Pork Processors Limited,Brechin,,3,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
 14,1145,Vicars Game (Scotland) Ltd,Perth,,3,"cold store, game handling establishment (wild game)",,,,2018,5
 15,1156,Orkney Meat Processors Limited,Kirkwall,,3,"slaughterhouse (red), cutting plant (red)",yes,,,2018,10
 16,1160,R Miller Ltd (Meat Wholesaler),Grantown-on-Spey,,3,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,4
-17,1178,Highland Game Limited,Dundee,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment,,,,2020,11
+17,1178,Highland Game Limited,Dundee,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment,,,,2021,8
 18,1200,Seriously Good Butchery Ltd,Perth,,3,"cutting plant (red), mince meat establishment, meat preparation establishment, processing plant (meat), cutting plant (farmed game), cutting plant (wild game), game handling establishment (wild game)",,,,2018,9
-19,1201,Downfield Limited,Cupar,,3,cutting plant (farmed game) cutting plant (red) cutting plant (wild game) cold store game handling establishment (wild game) processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (farmed game) slaughterhouse (red),yes,,,2020,11
+19,1201,Downfield Limited,Cupar,,3,cutting plant (farmed game) cutting plant (red) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (farmed game) slaughterhouse (red),yes,,,2021,8
 20,1215,Wild Deer Game Ltd,Stirling,,3,cutting plant (wild game) game handling establishment (wild game),,,,2020,9
-21,1505,Vivers Scotlamb Ltd.,Annan,,3,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
+21,1505,Vivers Scotlamb Ltd.,Annan,,3,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
 22,1511,DS (Slaughterhouse) Ltd,Dunblane,,3,slaughterhouse (red),yes,,,2020,9
-23,1516,James Chapman (Butchers) Ltd T/A  Shotts Abattoir,Shotts,,3,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-24,1517,Wishaw Abattoir Ltd,Motherwell,,3,cutting plant (red) cutting plant (farmed game) cold store slaughterhouse (farmed game) slaughterhouse (red),yes,,,2020,11
-25,1535,Sandyford Abattoir (Paisley) Ltd,Paisley,,3,cutting plant (red) processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-26,1541,AK Stoddart Ltd,Ayr,,3,cutting plant (red) processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-27,1542,John Robertson & Sons (Ham Curers) Ltd,Ardrossan,,3,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
-28,1560,Scotbeef Limited,Bridge of Allan,,3,cutting plant (red) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
-29,1571,Ramsay of Carluke Ltd,Carluke,,3,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-30,1584,Lockerbie Abattoir,Lockerbie,,3,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-31,1585,Mull Slaughterhouse Ltd,Isle of Mull,,3,cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
+23,1516,James Chapman (Butchers) Ltd T/A  Shotts Abattoir,Shotts,,3,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+24,1517,Wishaw Abattoir Ltd,Motherwell,,3,cutting plant (red) cutting plant (farmed game) cold store slaughterhouse (farmed game) slaughterhouse (red),yes,,,2021,8
+25,1535,Sandyford Abattoir (Paisley) Ltd,Paisley,,3,cutting plant (red) processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+26,1541,AK Stoddart Ltd,Ayr,,3,cutting plant (red) processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+27,1542,John Robertson & Sons (Ham Curers) Ltd,Ardrossan,,3,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+28,1560,Scotbeef Limited,Bridge of Allan,,3,cutting plant (red) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+29,1571,Ramsay of Carluke Ltd,Carluke,,3,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+30,1584,Lockerbie Abattoir,Lockerbie,,3,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+31,1585,Mull Slaughterhouse Ltd,Isle of Mull,,3,cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
 32,1598,Dawn Meats UK (T/A Highland Meats),Saltcoats,,3,"slaughterhouse (red), mince meat establishment, processing plant (meat), processing plant (stomachs), cold store, cutting plant (red)",yes,,,2018,4
-33,1641,Richard Carmichael (T/A Carmichael Estate Farm Meats),Biggar,,3,cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red) slaughterhouse (farmed game),yes,,,2020,11
-34,1647,Kezie Ltd,Duns,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
+33,1641,Richard Carmichael (T/A Carmichael Estate Farm Meats),Biggar,,3,cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red) slaughterhouse (farmed game),yes,,,2021,8
+34,1647,Kezie Ltd,Duns,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
 35,1659,SAC Commercial Ltd,Ayr,,3,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,9
 36,1679,Scotch Premier Meat Ltd,Sutherland,,3,cutting plant (red) slaughterhouse (red),yes,,,2020,9
-37,1685,Charmaine Bain and John Andrew Bain (t\a Aberdeenshire Larder Ltd),Ellon,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,,,2020,11
-38,1686,John Morrison t/a Lochmaddy Slaughterhouse,Isle Of North Uist,,3,cutting plant (red) game handling establishment (wild game) mince meat establishment slaughterhouse (red),yes,,,2020,11
-39,1699,Richard Pickup and Celia Pickup T/A Craigadam Country Larder,Kirkcudbrightshire,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,,,2020,11
-40,1701,Hubertus Game Ltd.,Pitlochry,,3,game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2020,11
+37,1685,Charmaine Bain and John Andrew Bain (t\a Aberdeenshire Larder Ltd),Ellon,,3,cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,,,2021,8
+38,1686,John Morrison t/a Lochmaddy Slaughterhouse,Isle Of North Uist,,3,cutting plant (red) game handling establishment (wild game) mince meat establishment slaughterhouse (red),yes,,,2021,8
+39,1699,Richard Pickup and Celia Pickup T/A Craigadam Country Larder,Kirkcudbrightshire,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,,,2021,8
+40,1701,Hubertus Game Ltd,Pitlochry,,3,cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2021,8
 41,1717,Barraston Poultry Ltd (T/A Gilchrist Poultry),Glasgow,,3,slaughterhouse (poultry),yes,,,2020,9
 42,1718,Canup  Ltd t/a Balmoral Estate,Ballater,,3,game handling establishment (wild game),,,,2020,9
 43,1728,John C Mitchell & Margaret Mitchell T/A J C Mitchell Poultry & Game Dealers,By Forfar,,3,cutting plant (poultry) game handling establishment (wild game) re-wrappingand repackaging establishment,,,,2020,9
 44,1731,Lochaber Game Services Ltd,Fort William,,3,cutting plant (poultry) cutting plant (red) cutting plant (wild game) game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2020,9
-45,1735,Avonvogie Enterprises Ltd,Isle Of Islay,,3,game handling establishment (wild game) slaughterhouse (red),yes,,,2020,11
+45,1735,Avonvogie Enterprises Ltd,Isle Of Islay,,3,game handling establishment (wild game) slaughterhouse (red),yes,,,2021,8
 46,1736,Hallrule Shoot,Hawick,,3,slaughterhouse (poultry),yes,,,2020,9
-47,1738,Braehead Foods Limited,Kilmarnock,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (fish) processing plant (meat) re-wrappingand repackaging establishment,,,,2020,11
-48,1742,David Killoh Meat Co. Ltd,Peterhead,,3,game handling establishment (wild game) meat preparation establishment,,,,2020,11
-49,1756,SMLG Trading Ltd,Lerwick,,3,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-50,2019,HCF Poultry Ltd,Bradford,BD135HP,1,cutting plant (poultry) mince meat establishment meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,406519.0,436710.0,2020,11
-51,2023,T Soanes & Son (Poultry) Ltd,Driffield,,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,11
-52,2037,2 Sisters Food Group Ltd,Scunthorpe,DN158QW,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,488464.0,413261.0,2020,11
-53,2045,Dovecote Park Ltd,Pontefract,WF8 3DD,1,cutting plant (red) cutting plant (farmed game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (stomachs) processing plant (rendered animal fats) re-wrappingand repackaging establishment slaughterhouse (red) slaughterhouse (farmed game) meat preparation (lttc),yes,,,2020,11
-54,2056,Linden Foods Burradon Limited,Cramlington,NE237NB,1,cutting plant (red) slaughterhouse (red),yes,427300.0,572973.0,2020,11
-55,2060,MALTON BACON FACTORY,Malton,YO179HG,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,480288.0,471426.0,2020,11
-56,2066,Thompson (Wholesale Meat) Ltd,Durham,DL140AQ,1,cutting plant (red) cold store slaughterhouse (red),yes,415514.0,531620.0,2020,11
-57,2077,FOYLE MELTON MOWBRAY,Melton Mowbray,LE143PR,1,processing plant (stomachs) slaughterhouse (red),yes,465290.0,321287.0,2020,11
+47,1738,Braehead Foods Limited,Kilmarnock,,3,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) processing plant (fish) re-wrappingand repackaging establishment,,,,2021,7
+48,1742,David Killoh Meat Co. Ltd,Peterhead,,3,game handling establishment (wild game) meat preparation establishment,,,,2021,8
+49,1756,SMLG Trading Ltd,Lerwick,,3,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+50,2019,HCF Poultry Ltd,Bradford,BD135HP,1,cutting plant (poultry) mince meat establishment meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,406519.0,436710.0,2021,8
+51,2023,T Soanes & Son (Poultry) Ltd,Driffield,,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
+52,2037,2 Sisters Food Group Ltd,Scunthorpe,DN158QW,1,cutting plant (poultry) cold store meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,488464.0,413261.0,2021,8
+53,2045,Dovecote Park Ltd,Pontefract,WF8 3DD,1,cutting plant (red) cutting plant (farmed game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (stomachs) processing plant (rendered animal fats) re-wrappingand repackaging establishment slaughterhouse (red) slaughterhouse (farmed game) meat preparation (lttc),yes,,,2021,8
+54,2056,Linden Foods Burradon Limited,Cramlington,NE237NB,1,cutting plant (red) slaughterhouse (red),yes,427300.0,572973.0,2021,8
+55,2060,MALTON BACON FACTORY,Malton,YO179HG,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,480288.0,471426.0,2021,6
+56,2066,Thompson (Wholesale Meat) Ltd,Durham,DL140AQ,1,cutting plant (red) cold store slaughterhouse (red),yes,415514.0,531620.0,2021,8
+57,2077,FOYLE MELTON MOWBRAY,Melton Mowbray,LE143PR,1,processing plant (stomachs) slaughterhouse (red),yes,465290.0,321287.0,2021,8
 58,2085,BW & DJ Glaves & Sons Ltd,Scarborough,YO139DL,1,"re-wrappingand repackaging establishment, cutting plant (red), slaughterhouse (red), cutting plant (poultry), mince meat establishment, meat preparation establishment",yes,494457.0,482081.0,2019,6
 59,2088,Richard John Lyth T/A Egton Butchers,Egton,YO211TZ,1,cutting plant (red) processing plant (meat) slaughterhouse (red),yes,480853.0,506514.0,2020,2
-60,2091,Spenborough Abattoir Ltd,Liversedge,WF156PR,1,cutting plant (red) slaughterhouse (red),yes,420165.0,423795.0,2020,11
-61,2093,Cranswick Country Foods Plc,Hull,HU128TB,1,cutting plant (red) mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,518518.0,430376.0,2020,11
-62,2095,Hartshead Meats Ltd,Ashton-under-Lyne,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
+60,2091,Spenborough Abattoir Ltd,Liversedge,WF156PR,1,cutting plant (red) slaughterhouse (red),yes,420165.0,423795.0,2021,8
+61,2093,Cranswick Country Foods Plc,Hull,HU128TB,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,518518.0,430376.0,2021,8
+62,2095,Hartshead Meats Ltd,Ashton-under-Lyne,,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
 63,2100,DAWN CARNABY,Bridlington,,1,"cutting plant (red), slaughterhouse (red), processing plant (stomachs)",yes,,,2018,4
-64,2102,N Bramall & Son Ltd,Sheffield,S36 8YB,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-65,2108,Blackbrow Abattoir Ltd,Wigton,CA7 0JT,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-66,2138,West Scottish Lamb Ltd,Carlisle,CA3 0EH,1,cutting plant (red) cold store processing plant (meat) slaughterhouse (red),yes,,,2020,11
-67,2139,H C Airey & Sons Ltd,Grange over Sands,LA116JE,1,cutting plant (red) meat preparation establishment slaughterhouse (red),yes,339818.0,483126.0,2020,11
-68,2141,ABP YORK,York,YO195GH,1,cold store slaughterhouse (red),yes,465073.0,452181.0,2020,11
-69,2147,J A Mounfield & Son Ltd,Selby,YO8 6LS,1,slaughterhouse (red),yes,,,2020,11
-70,2161,J A Jewitt (Meat) Ltd,Durham,DL167QD,1,cutting plant (red) cold store mince meat establishment re-wrappingand repackaging establishment slaughterhouse (red),yes,424320.0,532177.0,2020,11
-71,2163,PETER BODDY LICENSED SLAUGHTERERS AND GAME DEALERS,Todmorden,OL148RE,1,cutting plant (red) cutting plant (farmed game) cold store game handling establishment (wild game) slaughterhouse (farmed game) slaughterhouse (red),yes,394473.0,425272.0,2020,11
-72,2168,G & A DENNEY,Lyth,LA8 8DG,1,cutting plant (red) meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-73,2169,CR HORNER,York,,1,slaughterhouse (red),yes,,,2020,11
-74,2171,A Traves & Son Ltd,Escrick,YO196TP,1,cutting plant (red) slaughterhouse (red),yes,463112.0,442625.0,2020,11
-75,2172,Foyle Gloucester,Cinderford,GL142PH,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,364814.0,214298.0,2020,11
+64,2102,N Bramall & Son Ltd,Sheffield,S36 8YB,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+65,2108,Blackbrow Abattoir Ltd,Wigton,CA7 0JT,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2021,8
+66,2138,West Scottish Lamb Ltd,Carlisle,CA3 0EH,1,cutting plant (red) cold store processing plant (meat) slaughterhouse (red),yes,,,2021,8
+67,2139,H C Airey & Sons Ltd,Grange over Sands,LA116JE,1,cutting plant (red) meat preparation establishment slaughterhouse (red),yes,339818.0,483126.0,2021,8
+68,2141,ABP YORK,York,YO195GH,1,cold store slaughterhouse (red),yes,465073.0,452181.0,2021,8
+69,2147,J A Mounfield & Son Ltd,Selby,YO8 6LS,1,slaughterhouse (red),yes,,,2021,8
+70,2161,J A Jewitt (Meat) Ltd,Durham,DL167QD,1,cutting plant (red) cold store mince meat establishment re-wrappingand repackaging establishment slaughterhouse (red),yes,424320.0,532177.0,2021,8
+71,2163,PETER BODDY LICENSED SLAUGHTERERS AND GAME DEALERS,Todmorden,OL148RE,1,cutting plant (farmed game) cutting plant (red) cold store game handling establishment (wild game) slaughterhouse (red) slaughterhouse (farmed game),yes,394473.0,425272.0,2021,1
+72,2168,G & A DENNEY,Lyth,LA8 8DG,1,cutting plant (red) meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+73,2169,CR HORNER,York,,1,slaughterhouse (red),yes,,,2021,8
+74,2171,A Traves & Son Ltd,Escrick,YO196TP,1,cutting plant (red) slaughterhouse (red),yes,463112.0,442625.0,2021,8
+75,2172,Foyle Gloucester,Cinderford,GL142PH,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,364814.0,214298.0,2021,8
 76,2175,Richard of Howden Ltd,Goole,DN145SR,1,cutting plant (red) slaughterhouse (red),yes,474171.0,423462.0,2019,12
-77,2188,ROBINSONS BUTCHERS,Durham,TS285AA,1,slaughterhouse (red),yes,440073.0,536933.0,2020,11
-78,2198,James White Butchers Ltd,Driffield,YO259QN,1,slaughterhouse (red),yes,502520.0,452287.0,2020,11
-79,2199,E V SLACK & SONS,Doncaster,,1,slaughterhouse (red),yes,,,2020,11
-80,2241,Woolley Bros (Wholesale Meats) Ltd,Sheffield,S20 3RW,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-81,2248,Melton Meat Limited,Melton Mowbray,LE142QN,1,slaughterhouse (red),yes,479654.0,312246.0,2020,11
-82,2254,GAMSTON  WOOD OSTRICHES,Retford,DN220RB,1,cutting plant (poultry) cutting plant (farmed game) cutting plant (wild game) cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (farmed game),yes,473320.0,376790.0,2020,11
-83,2256,HV GRAVES,Briston,NR242LE,1,cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,606185.0,332627.0,2020,11
-84,2281,Roger's Natural Foods,Fairford,GL7 4DY,1,game handling establishment (wild game),,,,2020,11
-85,2285,JOHN PENNY AND SONS,Leeds,LS196NU,1,cutting plant (red) cold store processing plant (meat) slaughterhouse (red),yes,421432.0,439193.0,2020,11
+77,2188,ROBINSONS BUTCHERS,Durham,TS285AA,1,slaughterhouse (red),yes,440073.0,536933.0,2021,8
+78,2198,James White Butchers Ltd,Driffield,YO259QN,1,slaughterhouse (red),yes,502520.0,452287.0,2021,8
+79,2199,E V SLACK & SONS,Doncaster,,1,slaughterhouse (red),yes,,,2021,8
+80,2241,Woolley Bros (Wholesale Meats) Ltd,Sheffield,S20 3RW,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+81,2248,Melton Meat Limited,Melton Mowbray,LE142QN,1,slaughterhouse (red),yes,479654.0,312246.0,2021,8
+82,2254,GAMSTON  WOOD OSTRICHES,Retford,DN220RB,1,cutting plant (red) cutting plant (poultry) cutting plant (farmed game) cutting plant (wild game) mince meat establishment meat preparation establishment slaughterhouse (farmed game),yes,473320.0,376790.0,2021,8
+83,2256,HV GRAVES,Briston,NR242LE,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,606185.0,332627.0,2021,8
+84,2281,Roger's Natural Foods,Fairford,GL7 4DY,1,game handling establishment (wild game),,,,2021,8
+85,2285,JOHN PENNY AND SONS,Leeds,LS196NU,1,cutting plant (red) cold store processing plant (meat) slaughterhouse (red),yes,421432.0,439193.0,2021,8
 86,2288,C WASTENEY AND SONS,Sheffield,S35 8QB,1,slaughterhouse (red),yes,,,2020,6
-87,2291,L Wood & Sons,Huddersfield,HD3 3FW,1,cutting plant (red) cold store game handling establishment (wild game) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
+87,2291,L Wood & Sons,Huddersfield,HD3 3FW,1,cutting plant (red) cold store game handling establishment (wild game) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
 88,2296,THE EDEN VALLEY MEAT COMPANY LTD,Penrith,CA119PF,1,"cold store, game handling establishment (wild game), mince meat establishment, meat preparation establishment, cutting plant (farmed game), cutting plant (red), re-wrappingand repackaging establishment, cutting plant (poultry), processing plant (meat)",,351257.0,537158.0,2018,7
-89,2298,South Downs Venison and Game Ltd,Petworth,GU280LT,1,cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment,,495827.0,116516.0,2020,11
-90,2301,Perdon Organics Ltd,Cullompton,EX151QQ,1,cutting plant (poultry) slaughterhouse (poultry),yes,303807.0,107024.0,2020,11
-91,2338,MEDINA GROUP LIMITED,Halifax,,1,cutting plant (poultry) cold store mince meat establishment slaughterhouse (poultry),yes,,,2020,11
-92,2343,J & E Medcalf Ltd,Halifax,HX4 9BJ,1,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
-93,2348,P & R WHITWAM,Huddersfield,HD7 4HB,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
+89,2298,South Downs Venison and Game Ltd,Petworth,GU280LT,1,cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment,,495827.0,116516.0,2021,8
+90,2301,Perdon Organics Ltd,Cullompton,EX151QQ,1,cutting plant (poultry) slaughterhouse (poultry),yes,303807.0,107024.0,2021,8
+91,2338,MEDINA GROUP LIMITED,Halifax,,1,cutting plant (poultry) cold store mince meat establishment slaughterhouse (poultry),yes,,,2021,8
+92,2343,J & E Medcalf Ltd,Halifax,HX4 9BJ,1,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+93,2348,P & R WHITWAM,Huddersfield,HD7 4HB,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,3
 94,2358,Milford Farm Ltd,Leeds,LS255LJ,1,"cold store, cutting plant (red), cutting plant (poultry), slaughterhouse (poultry), mince meat establishment, meat preparation establishment",yes,446438.0,430894.0,2018,7
-95,2384,Newhouse Game,Southampton,SO451AB,1,game handling establishment (wild game) mince meat establishment meat preparation establishment slaughterhouse (red),yes,446077.0,100135.0,2020,11
+95,2384,Newhouse Game,Southampton,SO451AB,1,game handling establishment (wild game) mince meat establishment meat preparation establishment slaughterhouse (red),yes,446077.0,100135.0,2021,8
 96,2388,DAWN CUMBRIA,Ulverston,,1,"slaughterhouse (red), processing plant (stomachs)",yes,,,2018,4
 97,2397,Rowland Agar (Slaughtering Contractors) Ltd,Ilkley,LS298HX,1,cutting plant (red) cold store slaughterhouse (red),yes,412048.0,447848.0,2020,4
 98,2399,Just Halal Poultry Limited,Bradford,BD3 9RD,1,"slaughterhouse (poultry), cutting plant (poultry)",yes,,,2019,1
-99,2406,G Bolam (Foods) & Sons Ltd,Stockton-on-Tees,TS213EE,1,slaughterhouse (red),yes,435674.0,529784.0,2020,11
+99,2406,G Bolam (Foods) & Sons Ltd,Stockton-on-Tees,TS213EE,1,slaughterhouse (red),yes,435674.0,529784.0,2021,8
 100,2413,M & C MEATS,Leeds,LS158DY,1,"cutting plant (red), slaughterhouse (red)",yes,436399.0,434576.0,2018,12
-101,2430,Yorkshire Abattoir Services Limited,Ossett,,1,slaughterhouse (red),yes,,,2020,11
+101,2430,Yorkshire Abattoir Services Limited,Ossett,,1,slaughterhouse (red),yes,,,2021,8
 102,2436,R  NATRASS & SONS,Bishop Auckland,DL131JR,1,"cutting plant (red), slaughterhouse (red), mince meat establishment",yes,390703.0,538225.0,2018,6
-103,2438,McIntyre Meats Ltd,Leyburn,DL8 3EP,1,cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-104,2440,L & A DENT (GAME DEALERS) LIMITED,Leyburn,DL8 4AY,1,cutting plant (wild game) game handling establishment (wild game),,,,2020,11
+103,2438,McIntyre Meats Ltd,Leyburn,DL8 3EP,1,cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+104,2440,L & A DENT (GAME DEALERS) LIMITED,Leyburn,DL8 4AY,1,cutting plant (wild game) game handling establishment (wild game),,,,2021,8
 105,2449,Yorkshire Game 17 Limited,Richmond,DL107SN,1,"cold store, game handling establishment (wild game), meat preparation establishment, re-wrappingand repackaging establishment",,422365.0,499779.0,2018,6
 106,2450,Al-Ummah Halal Poultry Limited,Barnsley,S72 9BG,1,"slaughterhouse (poultry), cutting plant (poultry)",yes,,,2018,6
-107,2470,OX CLOSE TRADITIONAL FINE FOODS,Wetherby,LS225HW,1,cutting plant (wild game) cold store game handling establishment (wild game) meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,440742.0,452256.0,2020,11
-108,2477,LANGTHORNE'S BUFFALO PRODUCE,Northallerton,DL6 2PD,1,cutting plant (farmed game) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (farmed game) slaughterhouse (red),yes,,,2020,11
-109,2501,A. J. Leese Turkeys Ltd,Stoke-on-Trent,ST104HY,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,403040.0,339407.0,2020,11
+107,2470,OX CLOSE TRADITIONAL FINE FOODS,Wetherby,LS225HW,1,cutting plant (wild game) cold store game handling establishment (wild game) meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,440742.0,452256.0,2021,8
+108,2477,LANGTHORNE'S BUFFALO PRODUCE,Northallerton,DL6 2PD,1,cutting plant (red) cutting plant (farmed game) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red) slaughterhouse (farmed game),yes,,,2021,8
+109,2501,A. J. Leese Turkeys Ltd,Stoke-on-Trent,ST104HY,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,403040.0,339407.0,2021,8
 110,2503,Two Rivers Produce Limited,Chepstow,NP167LZ,1,cutting plant (red) cutting plant (poultry) slaughterhouse (poultry),yes,355093.0,200608.0,2020,3
-111,2524,Robert Hawker Venison Limited,Cullompton,EX153RU,1,game handling establishment (wild game) mince meat establishment meat preparation establishment,,312855.0,112072.0,2020,11
+111,2524,Robert Hawker Venison Limited,Cullompton,EX153RU,1,game handling establishment (wild game) mince meat establishment meat preparation establishment,,312855.0,112072.0,2021,8
 112,2531,Wild Game Direct Limited,Great Missenden,HP160HY,1,game handling establishment (wild game),,485582.0,200167.0,2020,3
 113,2533,FAI Farms Limited,Wytham,OX2 8QJ,1,"cutting plant (red), cutting plant (poultry), slaughterhouse (poultry), mince meat establishment, meat preparation establishment",yes,,,2019,7
-114,2536,Pickstock Telford Limited,Telford,TF1 7FA,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-115,2542,Norfolk Quail Limited,Fakenham,NR217AL,1,cutting plant (poultry) slaughterhouse (poultry),yes,595091.0,327429.0,2020,11
-116,2548,Turner's Game,Canterbury,CT3 1UZ,1,cold store game handling establishment (wild game),,,,2020,11
-117,2569,Severn Valley Lamb,Great Wyrley,WS6 6AY,1,slaughterhouse (red),yes,,,2020,11
+114,2536,Pickstock Telford Limited,Telford,TF1 7FA,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+115,2542,Norfolk Quail Limited,Fakenham,NR217AL,1,cutting plant (poultry) slaughterhouse (poultry),yes,595091.0,327429.0,2021,8
+116,2548,Turner's Game,Canterbury,CT3 1UZ,1,cold store game handling establishment (wild game),,,,2021,8
+117,2569,Severn Valley Lamb,Great Wyrley,WS6 6AY,1,slaughterhouse (red),yes,,,2021,8
 118,2585,Zuss Halal,Latchingdon,,1,cutting plant (poultry) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,3
-119,2590,Fulton Holdings (Leeds) Limited,Leeds,LS252DP,1,cold store slaughterhouse (poultry),yes,440148.0,435717.0,2020,11
-120,2595,Lincolnshire Game Ltd,Boston,PE203NQ,1,cutting plant (farmed game) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,523107.0,340157.0,2020,11
-121,2603,Castlemead Poultry,Radstock,BA3 5UF,1,cutting plant (poultry) cutting plant (wild game) game handling establishment (wild game) slaughterhouse (poultry),yes,,,2020,11
+119,2590,Fulton Holdings (Leeds) Limited,Leeds,LS252DP,1,cold store slaughterhouse (poultry),yes,440148.0,435717.0,2021,8
+120,2595,Lincolnshire Game Ltd,Boston,PE203NQ,1,cutting plant (farmed game) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,523107.0,340157.0,2021,8
+121,2603,Castlemead Poultry,Radstock,BA3 5UF,1,cutting plant (poultry) cutting plant (wild game) game handling establishment (wild game) slaughterhouse (poultry),yes,,,2021,8
 122,2608,Gourmet Game Limited,Boston,PE227RW,1,"cutting plant (farmed game), cutting plant (wild game), game handling establishment (wild game), meat preparation establishment, mince meat establishment",,527603.0,360901.0,2019,6
 123,2618,Steven Jewell,Romsey,SO516FU,1,game handling establishment (wild game),,427988.0,123389.0,2018,3
 124,2621,Wellcroft Farm Meats,Butterton Leek,ST137TD,1,"slaughterhouse (red), cutting plant (red), game handling establishment (wild game)",yes,407169.0,356619.0,2018,7
 125,2627,The Romsey Game Larder,Romsey,SO516JY,1,"game handling establishment (wild game), cold store, re-wrappingand repackaging establishment",,430418.0,122923.0,2018,3
 126,2630,Charing Meats Limited,Ashford,,1,"slaughterhouse (red), cutting plant (red), mince meat establishment",yes,,,2018,4
-127,2653,Iqbal Poultry,Doncaster,DN8 5JS,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
-128,2660,Riley Foods Limited,Burnley,BB115PP,1,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,381664.0,427860.0,2020,11
+127,2653,Iqbal Poultry,Doncaster,DN8 5JS,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2021,8
+128,2660,Riley Foods Limited,Burnley,BB115PP,1,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,381664.0,427860.0,2021,8
 129,2661,Blachford Manor,Cornwood,PL219QX,1,cutting plant (wild game) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,261250.0,59957.0,2019,11
 130,2667,A J Meats Limited,Birmingham,,1,slaughterhouse (red),yes,,,2018,9
 131,2669,Philip Warren & Son,Launceston,PL157ED,1,"cutting plant (wild game), cutting plant (red), slaughterhouse (poultry), cutting plant (poultry), mince meat establishment, meat preparation establishment, re-wrappingand repackaging establishment, cold store",yes,231834.0,83582.0,2019,5
-132,2690,Simpson & Sons,Redditch,B96 6HH,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
+132,2690,Simpson & Sons,Redditch,B96 6HH,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
 133,2696,United Country Foods Ltd,Banham,NR162BX,1,slaughterhouse (red),yes,604748.0,288767.0,2018,6
 134,3003,Faccenda Foods (Lincs) Ltd (T/A Avara Foods),Caistor,LN7 6SH,1,re-wrappingand repackaging establishment cold store cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,7
-135,3005,MOY PARK (ASHBOURNE),Ashbourne,,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
+135,3005,MOY PARK (ASHBOURNE),Ashbourne,,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
 136,3007,Faccenda Foods Limited,Brackley,NN137EX,1,"cutting plant (poultry), slaughterhouse (poultry), meat preparation establishment, re-wrappingand repackaging establishment",yes,459223.0,236768.0,2019,6
-137,3008,Noble Foods Limited,Gainsborough,DN211QB,1,cutting plant (poultry) meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,483346.0,390280.0,2020,11
-138,3011,Moy Park Ltd,Sleaford,NG349SL,1,cutting plant (poultry) meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,511293.0,350304.0,2020,11
+137,3008,Noble Foods Limited,Gainsborough,DN211QB,1,cutting plant (poultry) meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,483346.0,390280.0,2021,8
+138,3011,Moy Park Ltd,Sleaford,NG349SL,1,cutting plant (poultry) meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,511293.0,350304.0,2021,8
 139,4014,Cargill Meats Europe,Hereford,HR4 9PB,1,cutting plant (poultry)  slaughterhouse (poultry)  mince meat establishment  meat preparation establishment  processing plant (meat),yes,,,2018,1
 140,4015,A S Audhali Farmgate Fresh Poultry Ltd,Hatton,CV357HZ,1,"cutting plant (poultry), slaughterhouse (poultry)",yes,422243.0,268854.0,2019,4
-141,4017,Highbury Poultry Farm Produce Ltd,Whitchurch,SY132HJ,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,355824.0,335390.0,2020,11
+141,4017,Highbury Poultry Farm Produce Ltd,Whitchurch,SY132HJ,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,355824.0,335390.0,2021,8
 142,4026,Faccenda Foods Limited,Scropton,DE655PS,1,"cold store, re-wrappingand repackaging establishment, cutting plant (poultry), slaughterhouse (poultry), meat preparation establishment",yes,419934.0,330053.0,2019,6
 143,4030,Bolton Halal Chicken Ltd,Bolton,BL3 6AU,1,"cutting plant (poultry), slaughterhouse (poultry), cold store",yes,,,2018,4
 144,4046,SEAFIELD PEDIGREES LTD,Redditch,B98 9DB,1,"cutting plant (poultry), slaughterhouse (poultry)",yes,,,2019,4
-145,4071,DUNBIA PRESTON,Preston,PR5 6AJ,1,cutting plant (wild game) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
+145,4071,DUNBIA PRESTON,Preston,PR5 6AJ,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
 146,4083,Cook & Johnson (Butchers) Ltd,St Helens,WA118DQ,1,"cold store, re-wrappingand repackaging establishment, cutting plant (red), slaughterhouse (red), cutting plant (poultry), cutting plant (farmed game), mince meat establishment, meat preparation establishment, processing plant (meat), processing plant (stomachs), processing plant (gelatine)",yes,347658.0,401058.0,2018,4
 147,4085,TULIP FRESH MEATS (ASHTON),Dukinfield,SK164HY,1,cutting plant (red) meat preparation establishment mechanically separated meat establishment processing plant (meat) slaughterhouse (red),yes,394022.0,398626.0,2020,8
-148,4090,F A Gill Limited,Wolverhampton,WV4 6EH,1,cutting plant (red) meat preparation establishment mechanically separated meat establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-149,4102,A H GRIFFITHS,Craven Arms,SY7 0LB,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
+148,4090,F A Gill Limited,Wolverhampton,WV4 6EH,1,cutting plant (red) meat preparation establishment mechanically separated meat establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+149,4102,A H GRIFFITHS,Craven Arms,SY7 0LB,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
 150,4104,A E PEARS & SON,Melton Mowbray,LE144HG,1,slaughterhouse (red),yes,477375.0,330851.0,2018,10
-151,4109,ABP SHREWSBURY,Shrewsbury,SY1 4AH,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-152,4112,BLACKLIDGE BROS,Wigan,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
+151,4109,ABP SHREWSBURY,Shrewsbury,SY1 4AH,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+152,4112,BLACKLIDGE BROS,Wigan,,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
 153,4113,Noel Chadwick Ltd,Wigan,WN6 0HA,1,"re-wrappingand repackaging establishment, slaughterhouse (red), cutting plant (poultry), mince meat establishment, cutting plant (red)",yes,,,2019,1
-154,4133,Farmers Fresh Ltd,Kenilworth,CV8 1NN,1,cutting plant (red) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
+154,4133,Farmers Fresh Ltd,Kenilworth,CV8 1NN,1,cutting plant (red) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
 155,4137,C Robinson and Sons (Butchers) Ltd,Walsall,WS7 1NR,1,cold store slaughterhouse (red) slaughterhouse (farmed game),yes,,,2020,1
-156,4138,C E PARTRIDGE & SON LTD,Bromsgrove,B61 0BN,1,slaughterhouse (red),yes,,,2020,11
-157,4140,G & G B HEWITT LTD,Chester,CH3 9BH,1,cutting plant (poultry) cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-158,4152,Beesons Limited,Crewe,CW1 5QF,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-159,4156,C H Rowley Ltd,Coventry,CV7 8FU,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-160,4168,R B Elliott & Son Ltd,Chesterfield,S44 5UN,1,cutting plant (red) cutting plant (farmed game) cold store slaughterhouse (farmed game) slaughterhouse (red),yes,,,2020,11
-161,4182,Janan Meat Limited,Kingswinford,,1,cutting plant (red) cold store mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-162,4197,N TM AND EM BASKEYFIELD,Newcastle-under-lyme,ST5 7AJ,1,slaughterhouse (red),yes,,,2020,11
+156,4138,C E PARTRIDGE & SON LTD,Bromsgrove,B61 0BN,1,slaughterhouse (red),yes,,,2021,8
+157,4140,G & G B HEWITT LTD,Chester,CH3 9BH,1,slaughterhouse (red),yes,,,2021,8
+158,4152,Beesons Limited,Crewe,CW1 5QF,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+159,4156,C H Rowley Ltd,Coventry,CV7 8FU,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+160,4168,R B Elliott & Son Ltd,Chesterfield,S44 5UN,1,cutting plant (red) cutting plant (farmed game) cold store slaughterhouse (red) slaughterhouse (farmed game),yes,,,2021,8
+161,4182,Janan Meat Limited,Kingswinford,,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+162,4197,N TM AND EM BASKEYFIELD,Newcastle-under-lyme,ST5 7AJ,1,slaughterhouse (red),yes,,,2021,8
 163,4199,BATES WHOLESALE BUTCHERS,Birmingham,B11 4AA,1,"cutting plant (red), slaughterhouse (red)",yes,,,2019,7
-164,4202,H G BEARD BUTCHERS,Stockport,SK7 1AF,1,slaughterhouse (red),yes,,,2020,11
-165,4225,C Brumpton Butchers Ltd,Nottingham,NG123HT,1,slaughterhouse (red),yes,464317.0,335246.0,2020,11
+164,4202,H G BEARD BUTCHERS,Stockport,SK7 1AF,1,slaughterhouse (red),yes,,,2021,8
+165,4225,C Brumpton Butchers Ltd,Nottingham,NG123HT,1,slaughterhouse (red),yes,464317.0,335246.0,2021,8
 166,4227,Cheshire Halal Meats Limited,Stockport,SK4 1BJ,1,cutting plant (red) slaughterhouse (red),yes,,,2018,2
-167,4236,Long Compton Abattoir Ltd,Shipston-on-Stour,CV365JJ,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,428805.0,233012.0,2020,11
-168,4242,Peter Coates Alrewas Ltd,Burton-on-Trent,DE137AE,1,slaughterhouse (farmed game) slaughterhouse (red),yes,417173.0,315017.0,2020,11
-169,4256,H.P. Westwood Limited,Burntwood,WS7 1JL,1,cutting plant (red) mince meat establishment slaughterhouse (red),yes,,,2020,11
-170,4261,Edge & Son,Wirral,CH621AB,1,cutting plant (red) slaughterhouse (red),yes,333762.0,385300.0,2020,11
-171,4269,J & B Fitton Ltd,Oldham,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-172,4276,A J GREEN & SONS,Stoke-on-Trent,ST6 4QH,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-173,4286,Lawn Farm Meats,Cheadle,ST102NJ,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,399146.0,343925.0,2020,11
-174,4294,E & T Jackson & Sons,Knutsford,WA160JA,1,cutting plant (farmed game) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,371307.0,379014.0,2020,11
-175,4295,W JAMES,Stoke on Trent,ST2 7HL,1,cutting plant (red) game handling establishment (wild game) slaughterhouse (red),yes,,,2020,11
+167,4236,Long Compton Abattoir Ltd,Shipston-on-Stour,CV365JJ,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,428805.0,233012.0,2021,8
+168,4242,Peter Coates Alrewas Ltd,Burton-on-Trent,DE137AE,1,slaughterhouse (red) slaughterhouse (farmed game),yes,417173.0,315017.0,2021,8
+169,4256,H.P. Westwood Limited,Burntwood,WS7 1JL,1,cutting plant (red) mince meat establishment slaughterhouse (red),yes,,,2021,8
+170,4261,Edge & Son,Wirral,CH621AB,1,cutting plant (red) slaughterhouse (red),yes,333762.0,385300.0,2021,8
+171,4269,J & B Fitton Ltd,Oldham,,1,cutting plant (red) slaughterhouse (red),yes,,,2021,5
+172,4276,A J GREEN & SONS,Stoke-on-Trent,ST6 4QH,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+173,4286,Lawn Farm Meats,Cheadle,ST102NJ,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,399146.0,343925.0,2021,8
+174,4294,E & T Jackson & Sons,Knutsford,WA160JA,1,cutting plant (red) cutting plant (farmed game) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,371307.0,379014.0,2021,8
+175,4295,W JAMES,Stoke on Trent,ST2 7HL,1,cutting plant (red) game handling establishment (wild game) slaughterhouse (red),yes,,,2021,8
 176,4298,A Johnson & Son Ltd,Yoxall,DE138NB,1,slaughterhouse (red),yes,413807.0,319296.0,2018,9
 177,4303,James Law Ltd,Bacup,OL138NJ,1,"cutting plant (red), slaughterhouse (red)",yes,385420.0,422291.0,2018,8
-178,4319,ROBIN MAYCOCK BUTCHERS,Matlock,DE4 5AT,1,slaughterhouse (red),yes,,,2020,11
-179,4322,J W Mettrick & Son Ltd,Glossop,SK138HZ,1,cutting plant (red) cutting plant (poultry) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,403296.0,393736.0,2020,11
-180,4326,C. S. Morphet and Sons Limited,Widnes,WA8 5PP,1,cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-181,4327,Joseph Morris Butchers Ltd,Lutterworth,LE176EG,1,slaughterhouse (red),yes,460304.0,281951.0,2020,11
-182,4330,WH & TR NEWTON T/A NEWTON BROTHERS,Crewe,,1,slaughterhouse (red),yes,,,2020,11
-183,4331,W Nixon & Sons Ltd,Cheadle,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-184,4333,University of Nottingham,Loughborough,LE125RD,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,450511.0,326133.0,2020,11
-185,4349,Perry's of Eccleshall Limited,Eccleshall,ST216BL,1,cutting plant (red) slaughterhouse (farmed game) slaughterhouse (red),yes,383180.0,329126.0,2020,11
-186,4357,F Redfern,Buxton,SK179HT,1,cutting plant (red) cold store mince meat establishment meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (red),yes,406796.0,370780.0,2020,11
-187,4367,T G SARGEANT AND SONS,Uttoxeter,ST145BG,1,cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,406246.0,333150.0,2020,11
-188,4373,Staffordshire Meat Packers Ltd,Stoke-on-Trent,ST2 9DL,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-189,4379,Higginshaw Abattoir Ltd,Oldham,OL2 6HQ,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-190,4380,Robert E Taylor (T/A A E Taylor & Son),Nottingham,NG130BX,1,slaughterhouse (red),yes,480692.0,338987.0,2020,11
-191,4381,WILLIAM TAYLOR & SON (PIG SALESMEN) LIMITED,Preston,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-192,4392,Robert G Tuckey Ltd,Birmingham,B46 2LG,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
+178,4319,ROBIN MAYCOCK BUTCHERS,Matlock,DE4 5AT,1,slaughterhouse (red),yes,,,2021,8
+179,4322,J W Mettrick & Son Ltd,Glossop,SK138HZ,1,cutting plant (red) cutting plant (poultry) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,403296.0,393736.0,2021,8
+180,4326,C. S. Morphet and Sons Limited,Widnes,WA8 5PP,1,cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2021,8
+181,4327,Joseph Morris Butchers Ltd,Lutterworth,LE176EG,1,slaughterhouse (red),yes,460304.0,281951.0,2021,8
+182,4330,WH & TR NEWTON T/A NEWTON BROTHERS,Crewe,,1,slaughterhouse (red),yes,,,2021,8
+183,4331,W Nixon & Sons Ltd,Cheadle,,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+184,4333,University of Nottingham,Loughborough,LE125RD,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,450511.0,326133.0,2021,8
+185,4349,Perry's of Eccleshall Limited,Eccleshall,ST216BL,1,cutting plant (red) slaughterhouse (farmed game) slaughterhouse (red),yes,383180.0,329126.0,2021,8
+186,4357,F Redfern,Buxton,SK179HT,1,cutting plant (red) cold store mince meat establishment meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (red),yes,406796.0,370780.0,2021,8
+187,4367,T G SARGEANT AND SONS,Uttoxeter,ST145BG,1,cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,406246.0,333150.0,2021,8
+188,4373,Staffordshire Meat Packers Ltd,Stoke-on-Trent,ST2 9DL,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+189,4379,Higginshaw Abattoir Ltd,Oldham,OL2 6HQ,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+190,4380,Robert E Taylor (T/A A E Taylor & Son),Nottingham,NG130BX,1,slaughterhouse (red),yes,480692.0,338987.0,2021,8
+191,4381,WILLIAM TAYLOR & SON (PIG SALESMEN) LIMITED,Preston,,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+192,4392,Robert G Tuckey Ltd,Birmingham,B46 2LG,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
 193,4406,Wild's Butchers Limited (T/A A J Wild),Sudbury,DE6 5HZ,1,slaughterhouse (red),yes,,,2020,11
-194,4451,Euro Quality Lambs Limited,Craven Arms,SY7 9PA,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
+194,4451,Euro Quality Lambs Limited,Craven Arms,SY7 9PA,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
 195,4464,Bickerton Bros Ltd,Stoke-on-Trent,ST119EG,1,cutting plant (red) slaughterhouse (red),yes,394651.0,343562.0,2020,10
-196,4471,WOODHEAD BROS,Colne,BB8 8LH,1,cutting plant (red) processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-197,4481,BELLS FISHMONGERS LIMITED,Carlisle,CA3 0HD,1,game handling establishment (wild game) re-wrappingand repackaging establishment,,,,2020,11
+196,4471,WOODHEAD BROS,Colne,BB8 8LH,1,cutting plant (red) processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+197,4481,BELLS FISHMONGERS LIMITED,Carlisle,CA3 0HD,1,game handling establishment (wild game) re-wrappingand repackaging establishment,,,,2021,8
 198,4484,Marcus Stevens,Lutterworth,LE175BS,1,slaughterhouse (red),yes,450621.0,287623.0,2019,6
-199,4486,DUNBIA SAWLEY,Clitheroe,BB7 4LH,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-200,4496,Birmingham Halal Abattoir Ltd,Birmingham,B5  7EJ,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-201,4534,Marsh Poultry Ltd,Preston,PR4 6LJ,1,cutting plant (red) cutting plant (poultry) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2020,11
-202,4538,SPRINGFIELD POULTRY LIMITED,Leominster,HR6 0LU,1,cutting plant (poultry) mince meat establishment meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
-203,4539,HASHAMS HALAL POULTRY,Birmingham,B10 9EJ,1,slaughterhouse (poultry),yes,,,2020,11
-204,4557,LEICESTERSHIRE FARM FRESH TURKEYS,Leicester,,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,11
-205,4559,TAJ & CO,Birmingham,B19 1DG,1,slaughterhouse (poultry),yes,,,2020,11
-206,4562,AHMED JEEWA & SONS,Walsall,WS1 4JJ,1,slaughterhouse (poultry),yes,,,2020,11
+199,4486,DUNBIA SAWLEY,Clitheroe,BB7 4LH,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+200,4496,Birmingham Halal Abattoir Ltd,Birmingham,B5  7EJ,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+201,4534,Marsh Poultry Ltd,Preston,PR4 6LJ,1,cutting plant (poultry) cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2021,8
+202,4538,SPRINGFIELD POULTRY LIMITED,Leominster,HR6 0LU,1,cutting plant (poultry) mince meat establishment meat preparation establishment slaughterhouse (poultry),yes,,,2021,8
+203,4539,HASHAMS HALAL POULTRY,Birmingham,B10 9EJ,1,slaughterhouse (poultry),yes,,,2021,8
+204,4557,LEICESTERSHIRE FARM FRESH TURKEYS,Leicester,,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
+205,4559,TAJ & CO,Birmingham,B19 1DG,1,slaughterhouse (poultry),yes,,,2021,8
+206,4562,AHMED JEEWA & SONS,Walsall,WS1 4JJ,1,slaughterhouse (poultry),yes,,,2021,8
 207,4566,Staffordshire Meat Packers Ltd,Wilmslow,,1,slaughterhouse (poultry),yes,,,2018,10
-208,4568,BAILEYS TURKEYS,Knutsford,WA160PN,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,372292.0,379692.0,2020,11
+208,4568,BAILEYS TURKEYS,Knutsford,WA160PN,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,372292.0,379692.0,2021,8
 209,4571,HEATH'S TURKEYS,Stoke-on-Trent,ST9 9QW,1,"cutting plant (poultry), slaughterhouse (poultry)",yes,,,2018,11
-210,4574,JOHNSON & SWARBRICK GOOSNARGH LTD,Preston,PR3 2JU,1,cutting plant (poultry) cold store game handling establishment (wild game) meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
+210,4574,JOHNSON & SWARBRICK GOOSNARGH LTD,Preston,PR3 2JU,1,cutting plant (poultry) cold store game handling establishment (wild game) meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
 211,4637,Halal Poultry and Meat Products Ltd,Warley,B66 2NU,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,3
-212,4649,M Najib and Sons Ltd,Foston,DE655PW,1,cutting plant (red) cold store slaughterhouse (red),yes,421365.0,331385.0,2020,11
-213,4686,S Colliers Butchers Limited,Swadlincote,DE118JA,1,slaughterhouse (red),yes,430185.0,319585.0,2020,11
-214,4702,Caldecott Turkey Farms Ltd,Wythall,B47 6NG,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,11
-215,4707,Wootton Organic Wholesale Ltd.,Oakamoor,ST103BZ,1,cutting plant (farmed game) cutting plant (red) cutting plant (poultry) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (farmed game) slaughterhouse (red) slaughterhouse (poultry),yes,407217.0,345545.0,2020,11
-216,4723,Willo Game Ltd,Bishops Castle,SY9 5EA,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment,,,,2020,11
-217,4765,Kosher Poultry Limited,Manchester,M8  8RQ,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
-218,4770,Medina Pure Halal UK Ltd,Oldbury,B69 4EH,1,slaughterhouse (poultry),yes,,,2020,11
-219,4771,Munir Brothers Halal Poultry Ltd,Halesowen,,1,slaughterhouse (poultry),yes,,,2020,11
+212,4649,M Najib and Sons Ltd,Foston,DE655PW,1,cutting plant (red) cold store slaughterhouse (red),yes,421365.0,331385.0,2021,8
+213,4686,S Colliers Butchers Limited,Swadlincote,DE118JA,1,slaughterhouse (red),yes,430185.0,319585.0,2021,5
+214,4702,Caldecott Turkey Farms Ltd,Wythall,B47 6NG,1,cutting plant (poultry) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
+215,4707,Wootton Organic Wholesale Ltd.,Oakamoor,ST103BZ,1,cutting plant (red) cutting plant (poultry) cutting plant (farmed game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red) slaughterhouse (farmed game) slaughterhouse (poultry),yes,407217.0,345545.0,2021,8
+216,4723,Willo Game Ltd,Bishops Castle,SY9 5EA,1,cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment,,,,2021,8
+217,4765,Kosher Poultry Limited,Manchester,M8  8RQ,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
+218,4770,Medina Pure Halal UK Ltd,Oldbury,B69 4EH,1,slaughterhouse (poultry),yes,,,2021,8
+219,4771,Munir Brothers Halal Poultry Ltd,Halesowen,,1,slaughterhouse (poultry),yes,,,2021,8
 220,4795,Highgate Meats Ltd,Penrith,CA110SG,1,"cold store, re-wrappingand repackaging establishment, cutting plant (red), cutting plant (poultry), slaughterhouse (poultry), cutting plant (wild game), mince meat establishment, meat preparation establishment, processing plant (meat)",yes,340513.0,527648.0,2019,6
-221,4800,Gafoor Pure Halal Ltd,Preston,PR1 5AJ,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
-222,4812,DEER 'N DEXTER,Penrith,,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-223,4826,States of Jersey Abattoir,Jersey,JE2 3NX,6,slaughterhouse (red),yes,,,2020,11
-224,4837,Cartmel Valley Game Suppliers Limited,Nr Grange-Over-Sands,LA117NR,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) processing plant (fish),,337231.0,477608.0,2020,11
-225,4842,Furness Fish & Game Ltd,Grange-over-Sands,LA117LS,1,cutting plant (red) cutting plant (poultry) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,336928.0,474817.0,2020,11
-226,4847,Halal Services Company Ltd,Lancaster,LA1 3JQ,1,processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-227,5002,Jack Brand Limited,Ipswich,,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
-228,5003,Diaper Poultry Ltd,Stowmarket,IP143JN,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,601193.0,262027.0,2020,11
-229,5004,GRESSINGHAM FOODS,Diss,,1,cutting plant (poultry) cutting plant (wild game) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,11
+221,4800,Gafoor Pure Halal Ltd,Preston,PR1 5AJ,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
+222,4812,DEER 'N DEXTER,Penrith,,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2021,8
+223,4826,States of Jersey Abattoir,St Helier,JE2 3NX,6,slaughterhouse (red),yes,,,2021,8
+224,4837,Cartmel Valley Game Suppliers Limited,Nr Grange-Over-Sands,LA117NR,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) processing plant (fish),,337231.0,477608.0,2021,8
+225,4842,Furness Fish & Game Ltd,Grange-over-Sands,LA117LS,1,cutting plant (red) cutting plant (poultry) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,336928.0,474817.0,2021,8
+226,4847,Halal Services Company Ltd,Lancaster,LA1 3JQ,1,processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+227,5002,Jack Brand Limited,Ipswich,,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
+228,5003,Diaper Poultry Ltd,Stowmarket,IP143JN,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,601193.0,262027.0,2021,8
+229,5004,GRESSINGHAM FOODS,Diss,,1,cutting plant (poultry) cutting plant (wild game) cold store re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
 230,5007,Crown Chicken Ltd,Diss,IP215TL,1,cold store cutting plant (poultry) slaughterhouse (poultry),yes,624931.0,279806.0,2020,6
 231,5008,1Stop Halal Limited,Eye,IP237AJ,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (fish) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,614371.0,273759.0,2019,11
-232,5011,2 Sisters Food Group Ltd,Bungay,NR351NT,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,630911.0,285923.0,2020,11
-233,5023,Leonard Ames (Ampthill) Ltd,Ampthill,MK452NX,1,cutting plant (red) cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,502674.0,236529.0,2020,11
-234,5028,A D HARVEY,Norwich,,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
-235,5041,K Poultry Limited,Bow,E3  2NR,1,slaughterhouse (poultry),yes,,,2020,11
-236,5049,Bernard Matthews Foods Limited,Halesworth,IP198NJ,1,cutting plant (poultry) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (meat) processing plant (fish) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,640258.0,278913.0,2020,11
-237,5055,A P Burlton (Farms) Limited,Royston,SG8 6JP,1,cutting plant (poultry) mince meat establishment meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
-238,5067,IHP Ltd,Bovingdon,HP3 0NQ,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
-239,5069,Gressingham Foods Ltd,Woodbridge,,1,cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2020,11
+232,5011,2 Sisters Food Group Ltd,Bungay,NR351NT,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,630911.0,285923.0,2021,8
+233,5023,Leonard Ames (Ampthill) Ltd,Ampthill,MK452NX,1,cutting plant (red) cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,502674.0,236529.0,2021,8
+234,5028,A D HARVEY,Norwich,,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2021,8
+235,5041,K Poultry Limited,Bow,E3  2NR,1,slaughterhouse (poultry),yes,,,2021,8
+236,5049,Bernard Matthews Foods Limited,Halesworth,IP198NJ,1,cutting plant (poultry) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (meat) processing plant (fish) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,640258.0,278913.0,2021,8
+237,5055,A P Burlton (Farms) Limited,Royston,SG8 6JP,1,cutting plant (poultry) mince meat establishment meat preparation establishment slaughterhouse (poultry),yes,,,2021,8
+238,5067,IHP Ltd,Bovingdon,HP3 0NQ,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
+239,5069,Gressingham Foods Ltd,Woodbridge,,1,cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2021,8
 240,5088,A & G Barber Ltd,Chelmsford,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,2
-241,5090,Elmkirk Limited,Brentwood,CM133EN,1,cutting plant (red) meat preparation establishment slaughterhouse (red),yes,560567.0,188509.0,2020,11
+241,5090,Elmkirk Limited,Brentwood,CM133EN,1,cutting plant (red) meat preparation establishment slaughterhouse (red),yes,560567.0,188509.0,2021,8
 242,5091,DALEHEAD  FOODS (A DIVISION OF TULIP),Spalding,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,8
-243,5094,P J STEVENS FAMILY BUTCHER,Boston,PE220LE,1,slaughterhouse (red),yes,537703.0,343858.0,2020,11
+243,5094,P J STEVENS FAMILY BUTCHER,Boston,PE220LE,1,slaughterhouse (red),yes,537703.0,343858.0,2021,8
 244,5106,DAWN CARDINGTON,Bedford,,1,"cutting plant (red), slaughterhouse (red), mince meat establishment, meat preparation establishment, processing plant (meat), processing plant (stomachs)",yes,,,2018,4
-245,5116,Dovecote Park (Skellingthorpe) Ltd,Lincoln,LN6 5TX,1,cutting plant (red) processing plant (meat) slaughterhouse (red),yes,,,2020,11
-246,5120,N V GAGEN & SON,Wisbech,PE134ND,1,slaughterhouse (red),yes,542358.0,311840.0,2020,11
-247,5130,EVANS & SONS,Bedford,MK430LT,1,slaughterhouse (red),yes,499045.0,243444.0,2020,11
-248,5144,C A LEECH & SONS,Royston,SG8 6DX,1,slaughterhouse (red),yes,,,2020,11
-249,5154,H J HELLETT & SONS,Huntingdon,PE280HL,1,slaughterhouse (red),yes,510087.0,267785.0,2020,11
-250,5177,Lincolnshire Meat Company Ltd,Grantham,NG317DA,1,cutting plant (red) slaughterhouse (red),yes,490967.0,335734.0,2020,11
-251,5184,A WRIGHT  & SON,Boston,,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-252,5203,H DAWSON & SONS,Boston,PE216HB,1,slaughterhouse (red),yes,532897.0,344022.0,2020,11
-253,5204,L Brown & Sons Wholesale Butchers Ltd,Lincoln,LN3 4NL,1,cold store slaughterhouse (red),yes,,,2020,11
-254,5207,H G Blake (Costessey) Ltd,Norwich,NR104DU,1,cutting plant (red) cold store game handling establishment (wild game) slaughterhouse (red),yes,616543.0,316419.0,2020,11
-255,5213,Cranswick Country Food PLC,Thetford,,1,cutting plant (red) mince meat establishment meat preparation establishment mechanically separated meat establishment re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
+245,5116,Dovecote Park (Skellingthorpe) Ltd,Lincoln,LN6 5TX,1,cutting plant (red) processing plant (meat) slaughterhouse (red),yes,,,2021,8
+246,5120,N V GAGEN & SON,Wisbech,PE134ND,1,slaughterhouse (red),yes,542358.0,311840.0,2021,8
+247,5130,EVANS & SONS,Bedford,MK430LT,1,slaughterhouse (red),yes,499045.0,243444.0,2021,8
+248,5144,C A LEECH & SONS,Royston,SG8 6DX,1,slaughterhouse (red),yes,,,2021,8
+249,5154,H J HELLETT & SONS,Huntingdon,PE280HL,1,slaughterhouse (red),yes,510087.0,267785.0,2021,8
+250,5177,Lincolnshire Meat Company Ltd,Grantham,NG317DA,1,cutting plant (red) slaughterhouse (red),yes,490967.0,335734.0,2021,8
+251,5184,A WRIGHT  & SON,Boston,,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2021,8
+252,5203,H DAWSON & SONS,Boston,PE216HB,1,slaughterhouse (red),yes,532897.0,344022.0,2021,8
+253,5204,L Brown & Sons Wholesale Butchers Ltd,Lincoln,LN3 4NL,1,cold store slaughterhouse (red),yes,,,2021,8
+254,5207,H G Blake (Costessey) Ltd,Norwich,NR104DU,1,cutting plant (red) cold store game handling establishment (wild game) slaughterhouse (red),yes,616543.0,316419.0,2021,8
+255,5213,Cranswick Country Foods PLC,Thetford,,1,cutting plant (red) mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
 256,5215,J E HOWARD BUTCHERS AND HOWARD'S ABATTOIR,Kings Lynn,PE321QJ,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,572300.0,319419.0,2020,1
-257,5217,J W SARGEANT,Kings Lynn,PE343PP,1,slaughterhouse (red),yes,561097.0,306985.0,2020,11
+257,5217,J W SARGEANT,Kings Lynn,PE343PP,1,slaughterhouse (red),yes,561097.0,306985.0,2021,8
 258,5218,ARTHUR HOWELL,Wells Next The Sea,NR231AN,1,"cutting plant (red), slaughterhouse (red)",yes,591678.0,343666.0,2019,2
 259,5241,Ruse & Son Ltd,Sudbury,CO109JF,1,slaughterhouse (red),yes,586408.0,245762.0,2019,7
 260,5251,DENHAM ESTATE,Bury St Edmunds,,1,slaughterhouse (red),yes,,,2019,2
-261,5269,C HUMPHREYS & SONS,Chelmsford,CM3 2BH,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-262,5280,Fowler Bros (Latchingdon) Ltd,Burnham-on-Crouch,CM0 8NA,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-263,5319,Romford Halal Meats Ltd,Upminster,RM141TH,1,cutting plant (red) mince meat establishment slaughterhouse (red),yes,558010.0,188860.0,2020,11
-264,5345,GST Limited,Braintree,CM7 5BA,1,cutting plant (poultry) cold store mince meat establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,11
-265,5388,Kelly Turkey Farms Limited,Chelmsford,CM2 7TB,1,cutting plant (poultry) processing plant (meat) slaughterhouse (poultry),yes,,,2020,11
-266,5392,C J BYFORD & SON,Little Clacton,CO169QE,1,cutting plant (red) meat preparation establishment slaughterhouse (red),yes,618741.0,219162.0,2020,11
+261,5269,C HUMPHREYS & SONS,Chelmsford,CM3 2BH,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+262,5280,Fowler Bros (Latchingdon) Ltd,Burnham-on-Crouch,CM0 8NA,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+263,5319,Romford Halal Meats Ltd,Upminster,RM141TH,1,cutting plant (red) mince meat establishment slaughterhouse (red),yes,558010.0,188860.0,2021,8
+264,5345,GST Limited,Braintree,CM7 5BA,1,cutting plant (poultry) cold store mince meat establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
+265,5388,Kelly Turkey Farms Limited,Chelmsford,CM2 7TB,1,cutting plant (poultry) processing plant (meat) slaughterhouse (poultry),yes,,,2021,8
+266,5392,C J BYFORD & SON,Little Clacton,CO169QE,1,cutting plant (red) meat preparation establishment slaughterhouse (red),yes,618741.0,219162.0,2021,8
 267,5415,Telmara Farm Ltd,Saffron Walden,CB113LZ,1,"cutting plant (poultry), slaughterhouse (poultry)",yes,557379.0,231330.0,2018,3
-268,5430,Ben Rigby Game Ltd,Maldon,CM9 6NL,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2020,11
-269,5450,Traditional Norfolk Poultry Ltd,Attleborough,NR171DS,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,598711.0,293065.0,2020,11
-270,5461,C H & E I Bambridge & Sons Ltd,Thetford,IP256RB,1,game handling establishment (wild game),,593174.0,301110.0,2020,11
-271,5464,Banham Poultry (2018) Ltd,Attleborough,NR172AT,1,cutting plant (poultry) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,605279.0,294892.0,2020,11
+268,5430,Ben Rigby Game Ltd,Maldon,CM9 6NL,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2021,8
+269,5450,Traditional Norfolk Poultry Ltd,Attleborough,NR171DS,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,598711.0,293065.0,2021,8
+270,5461,C H & E I Bambridge & Sons Ltd,Thetford,IP256RB,1,game handling establishment (wild game),,593174.0,301110.0,2021,8
+271,5464,Banham Poultry (2018) Ltd,Attleborough,NR172AT,1,cutting plant (poultry) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment slaughterhouse (poultry),yes,605279.0,294892.0,2021,8
 272,5491,MUSLIM HALAL LIVE POULTRY,London,E1  2LP,1,slaughterhouse (poultry),yes,,,2018,6
-273,5497,WALKER'S GAME,Louth,LN117JD,1,game handling establishment (wild game),,537881.0,397677.0,2020,11
-274,5500,PETERBOROUGH GAME CO LTD,Bourne,PE109LQ,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,510376.0,319450.0,2020,11
-275,5508,Wild Meat Company Ltd,Woodbridge,IP122DY,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,636713.0,256909.0,2020,11
-276,5511,ROBERT ASHCROFT GAME,Maldon,CM9 8ES,1,game handling establishment (wild game),,,,2020,11
+273,5497,WALKER'S GAME,Louth,LN117JD,1,game handling establishment (wild game),,537881.0,397677.0,2021,8
+274,5500,PETERBOROUGH GAME CO LTD,Bourne,PE109LQ,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,510376.0,319450.0,2021,8
+275,5508,Wild Meat Company Ltd,Woodbridge,IP122DY,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment,,636713.0,256909.0,2021,2
+276,5511,ROBERT ASHCROFT GAME,Maldon,CM9 8ES,1,game handling establishment (wild game),,,,2021,8
 277,5512,J SHARPE GAME,Melton Constable,NR242BT,1,game handling establishment (wild game),,604345.0,332864.0,2019,4
-278,5513,WOODHEAD BROTHERS,Spalding,PE113YY,1,cutting plant (red) meat preparation establishment processing plant (meat) slaughterhouse (red),yes,525219.0,324634.0,2020,11
-279,5519,C & K Meats Ltd,Eye,IP237HE,1,cutting plant (red) cutting plant (poultry) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,613340.0,275496.0,2020,11
-280,6060,P.C.Turner - Wholesale Butcher,Farnborough,GU146JS,1,cutting plant (red) slaughterhouse (red),yes,487711.0,154070.0,2020,11
-281,6067,Tottingworth Farms Ltd,Heathfield,TN218TH,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,560351.0,121845.0,2020,11
-282,6107,T. Allman Butchers Limited,Edenbridge,,1,slaughterhouse (red),yes,,,2020,11
-283,6116,Forge Farm Meats Ltd,Southborough,,1,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
-284,6128,Ken Ballard Ltd,Tonbridge,TN129HZ,1,slaughterhouse (red),yes,574101.0,144610.0,2020,11
-285,6130,S W DOUGHTY,Sittingbourne,ME9 0BH,1,slaughterhouse (red),yes,,,2020,11
+278,5513,WOODHEAD BROTHERS,Spalding,PE113YY,1,cutting plant (red) meat preparation establishment processing plant (meat) slaughterhouse (red),yes,525219.0,324634.0,2021,8
+279,5519,C & K Meats Ltd,Eye,IP237HE,1,cutting plant (red) cutting plant (poultry) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,613340.0,275496.0,2021,8
+280,6060,P.C.Turner - Wholesale Butcher,Farnborough,GU146JS,1,cutting plant (red) slaughterhouse (red),yes,487711.0,154070.0,2021,8
+281,6067,Tottingworth Farms Ltd,Heathfield,TN218TH,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,560351.0,121845.0,2021,8
+282,6107,T. Allman Butchers Limited,Edenbridge,,1,slaughterhouse (red),yes,,,2021,8
+283,6116,Forge Farm Meats Ltd,Southborough,,1,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+284,6128,Ken Ballard Ltd,Tonbridge,TN129HZ,1,slaughterhouse (red),yes,574101.0,144610.0,2021,8
+285,6130,S W DOUGHTY,Sittingbourne,ME9 0BH,1,slaughterhouse (red),yes,,,2021,8
 286,6135,BRAMBLE FARM,West Horsley,KT246AP,1,"cutting plant (poultry), slaughterhouse (poultry)",yes,508456.0,152518.0,2019,7
-287,6204,D H Game Ltd,Warnford,SO323LJ,1,game handling establishment (wild game),,459015.0,123729.0,2020,11
-288,6207,Mutchmeats Ltd,Witney,OX297GX,1,cutting plant (red) cold store mince meat establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,434628.0,208277.0,2020,11
-289,6238,ABP GUILDFORD,Guildford,GU1 1RP,1,cutting plant (red) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-290,6298,Copas Traditional Turkeys Ltd,Maidenhead,SL6 9UB,1,cutting plant (poultry) mince meat establishment meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
-291,6319,Eden Valley Group,Erith,DA8 2AD,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) meat preparation establishment,,,,2020,11
-292,6326,J R Farm Meats Ltd,Canterbury,CT3 3HN,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-293,6342,STM (Sussex) Ltd,Henfield,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-294,6344,Vicars Game Ltd,Newbury,RG8 8SJ,1,cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,,,2020,11
+287,6204,D H Game Ltd,Warnford,SO323LJ,1,game handling establishment (wild game),,459015.0,123729.0,2021,8
+288,6207,Mutchmeats Ltd,Witney,OX297GX,1,cutting plant (red) cold store mince meat establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,434628.0,208277.0,2021,8
+289,6238,ABP GUILDFORD,Guildford,GU1 1RP,1,cutting plant (red) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+290,6298,Copas Traditional Turkeys Ltd,Maidenhead,SL6 9UB,1,cutting plant (poultry) mince meat establishment meat preparation establishment slaughterhouse (poultry),yes,,,2021,8
+291,6319,Eden Valley Group,Erith,DA8 2AD,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) meat preparation establishment,,,,2021,8
+292,6326,J R Farm Meats Ltd,Canterbury,CT3 3HN,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+293,6342,STM (Sussex) Ltd,Henfield,,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+294,6344,Vicars Game Limited,Newbury,RG8 8SJ,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,,,2021,8
 295,6359,Laverstoke Park Farm Ltd,Basingstoke,RG253DR,1,"re-wrappingand repackaging establishment, cutting plant (red), slaughterhouse (red), processing plant (dairy), mince meat establishment, meat preparation establishment, processing plant (meat), processing plant (egg)",yes,451910.0,146831.0,2018,5
 296,6360,Blackmoor Game Ltd,Alresford,SO249RU,1,"game handling establishment (wild game), mince meat establishment, meat preparation establishment",,462659.0,139018.0,2018,8
-297,6368,Chanctonbury Game,Washington,RH204BB,1,cutting plant (red) cutting plant (farmed game) cutting plant (wild game) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,511976.0,110928.0,2020,11
+297,6368,Chanctonbury Game,Washington,RH204BB,1,cutting plant (wild game) cutting plant (red) cutting plant (poultry) cutting plant (farmed game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,511976.0,110928.0,2021,8
 298,6381,Butcher & Edmonds Ltd,London,SW9 6EJ,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment,,,,2020,2
 299,6385,Russell Hume Ltd,London,N7  9BN,1,"cold store, re-wrappingand repackaging establishment, cutting plant (red), cutting plant (poultry), game handling establishment (wild game), mince meat establishment, meat preparation establishment, processing plant (meat)",,,,2018,12
 300,6391,Turrill Hill Farm,Hampshire,RG253DR,1,slaughterhouse (farmed game),yes,451910.0,146831.0,2018,2
-301,7002,2 Sisters Food Group Limited T/A 2 Sisters Llangefini,Llangefni,LL777UX,2,cutting plant (poultry) slaughterhouse (poultry),yes,246170.0,375029.0,2020,11
-302,7009,2 Sisters Food Group Limited T/A 2 Sisters Sandycroft,Deeside,CH5 2QP,2,cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2020,11
-303,7015,Dunbia (Wales) (T/A Dunbia Llanybydder),Llanybydder,SA409QE,2,cutting plant (red) meat preparation establishment processing plant (meat) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,253005.0,244560.0,2020,11
+301,7002,2 Sisters Food Group Limited T/A 2 Sisters Llangefini,Llangefni,LL777UX,2,cutting plant (poultry) slaughterhouse (poultry),yes,246170.0,375029.0,2021,8
+302,7009,2 Sisters Food Group Limited T/A 2 Sisters Sandycroft,Deeside,CH5 2QP,2,cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2021,8
+303,7015,Dunbia (Wales) (T/A Dunbia Llanybydder),Llanybydder,SA409QE,2,cutting plant (red) meat preparation establishment processing plant (meat) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,253005.0,244560.0,2020,12
 304,7023,Evan Roberts T/A E Roberts and Sons,Blaenau Ffestiniog,LL414PY,2,"cutting plant (red), slaughterhouse (red)",yes,271610.0,340732.0,2019,3
-305,7036,M K (Wales) Ltd T/A (Maddock Kembery Meats),Maesteg,CF340NW,2,cutting plant (red) processing plant (meat) slaughterhouse (farmed game) slaughterhouse (red),yes,286167.0,190921.0,2020,11
-306,7046,William Arthur James (T/A WA James Butchers),Raglan,NP152EB,2,cutting plant (red) cold store slaughterhouse (red),yes,341080.0,207652.0,2020,11
-307,7047,Maelor Foods Limited,Wrexham,LL130UE,2,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,338611.0,346687.0,2020,11
-308,7048,Hugh Phillips Gower Butcher,Swansea,SA4 3TB,2,cutting plant (red) cutting plant (poultry) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-309,7069,Williams Lloyd Williams and Son Limited,Machynlleth,SY208AA,2,cutting plant (red) cold store meat preparation establishment slaughterhouse (red),yes,274578.0,300823.0,2020,11
-310,7072,WJ George (Butchers) Ltd,Brecon,LD3 0PD,2,slaughterhouse (farmed game) slaughterhouse (red),yes,,,2020,11
-311,7084,Huw Evans & Morag Evans (T/A Cig Oen Caron),Tregaron,SY256NJ,2,cutting plant (red) mince meat establishment slaughterhouse (red),yes,268825.0,259443.0,2020,11
-312,7096,ET Jones Sons & Daughter,Holyhead,LL653TU,2,slaughterhouse (red),yes,233408.0,380395.0,2020,11
-313,7099,Conwy Valley Meats Limited,Llanrwst,LL260DG,2,cutting plant (red) cold store slaughterhouse (red),yes,279780.0,361931.0,2020,11
-314,7103,David Thomas James Thomas Stephen Thomas & Simeon Thomas (T/A D & J Thomas),Wrexham,LL141AF,2,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,329110.0,346388.0,2020,11
-315,7105,Cyril Jones and Stephen Jones T/A Jones Brothers,Wrexham,LL114YF,2,cutting plant (red) cutting plant (farmed game) cold store slaughterhouse (farmed game) slaughterhouse (red),yes,332171.0,351990.0,2020,11
+305,7036,M K (Wales) Ltd T/A (Maddock Kembery Meats),Maesteg,CF340NW,2,cutting plant (red) processing plant (meat) slaughterhouse (red) slaughterhouse (farmed game),yes,286167.0,190921.0,2021,8
+306,7046,William Arthur James (T/A WA James Butchers),Raglan,NP152EB,2,cutting plant (red) cold store slaughterhouse (red),yes,341080.0,207652.0,2021,8
+307,7047,Maelor Foods Limited,Wrexham,LL130UE,2,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,338611.0,346687.0,2021,8
+308,7048,Hugh Phillips Gower Butcher,Swansea,SA4 3TB,2,cutting plant (red) cutting plant (poultry) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+309,7069,Williams Lloyd Williams and Son Limited,Machynlleth,SY208AA,2,cutting plant (red) cold store meat preparation establishment slaughterhouse (red),yes,274578.0,300823.0,2021,8
+310,7072,WJ George (Butchers) Ltd,Brecon,LD3 0PD,2,slaughterhouse (red) slaughterhouse (farmed game),yes,,,2021,8
+311,7084,Huw Evans & Morag Evans (T/A Cig Oen Caron),Tregaron,SY256NJ,2,cutting plant (red) mince meat establishment slaughterhouse (red),yes,268825.0,259443.0,2021,8
+312,7096,ET Jones Sons & Daughter,Holyhead,LL653TU,2,slaughterhouse (red),yes,233408.0,380395.0,2021,3
+313,7099,Conwy Valley Meats Limited,Llanrwst,LL260DG,2,cutting plant (red) cold store slaughterhouse (red),yes,279780.0,361931.0,2021,8
+314,7103,David Thomas James Thomas Stephen Thomas & Simeon Thomas (T/A D & J Thomas),Wrexham,LL141AF,2,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,329110.0,346388.0,2021,8
+315,7105,Cyril Jones and Stephen Jones T/A Jones Brothers,Wrexham,LL114YF,2,cutting plant (farmed game) cutting plant (red) cold store slaughterhouse (red) slaughterhouse (farmed game),yes,332171.0,351990.0,2021,8
 316,7110,William E Edwards & Glyn Davies (T/A J Williams & Co),Denbigh,LL163BS,2,"cold store, cutting plant (red), slaughterhouse (red), cutting plant (wild game), game handling establishment (wild game)",yes,305720.0,366399.0,2018,10
 317,7132,Fairfield Meat Company Limited,Wrexham,LL130TS,2,"cutting plant (red), slaughterhouse (red)",yes,337336.0,347909.0,2018,3
-318,7135,Randall Parker Foods Ltd,Llanidloes,SY186LX,2,cutting plant (red) cold store processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,299524.0,285379.0,2020,11
-319,7147,John B Evans & Robert W Evans (T/A GR Evans & Co),Corwen,LL219BU,2,cutting plant (red) cold store slaughterhouse (red),yes,307642.0,345084.0,2020,11
-320,7161,Capestone Organic Poultry Limited,Haverfordwest,SA623DY,2,cutting plant (red) cutting plant (poultry) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (meat) processing plant (fish) slaughterhouse (poultry),yes,186459.0,209697.0,2020,11
-321,7164,Usk Vale Poultry Ltd,Pontypool,,2,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
+318,7135,Randall Parker Foods Ltd,Llanidloes,SY186LX,2,cutting plant (red) cold store processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,299524.0,285379.0,2021,8
+319,7147,John B Evans & Robert W Evans (T/A GR Evans & Co),Corwen,LL219BU,2,cutting plant (red) cold store slaughterhouse (red),yes,307642.0,345084.0,2021,8
+320,7161,Capestone Organic Poultry Limited,Haverfordwest,SA623DY,2,cutting plant (red) cutting plant (poultry) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (meat) processing plant (fish) slaughterhouse (poultry),yes,186459.0,209697.0,2021,8
+321,7164,Usk Vale Poultry Ltd,Pontypool,,2,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
 322,7176,2 Sisters Red Meat Ltd T/A St Merryn Foods - Merthyr Tydfil,Merthyr Tydfil,CF482TA,2,"cold store, cutting plant (red), slaughterhouse (red), cutting plant (farmed game), cutting plant (wild game), mince meat establishment, meat preparation establishment, processing plant (stomachs), re-wrappingand repackaging establishment",yes,307802.0,208695.0,2018,8
-323,7182,David T Havard,Caerphilly,CF831NF,2,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,313792.0,185441.0,2020,11
-324,7198,Cig Calon Cymru 2010 CYF T/A Cig Calon Cymru,Llanelli,SA146RX,2,cutting plant (red) cutting plant (farmed game) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,257290.0,212608.0,2020,11
-325,8004,M C Kelly Limited,Crediton,EX175PB,1,cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,278398.0,102671.0,2020,11
-326,8005,2 Sisters Food Group Ltd,Cullompton,EX152PJ,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,303034.0,111131.0,2020,11
-327,8013,Creedy Carver Limited,Crediton,EX174AF,1,cutting plant (poultry) cold store slaughterhouse (poultry),yes,285070.0,102082.0,2020,11
-328,8016,Freemans of Newent Ltd,Newent,GL181HP,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,372983.0,225708.0,2020,11
-329,8019,OTTER VALLEY POULTRY LIMITED,Honiton,EX149QD,1,cutting plant (poultry) cold store mince meat establishment meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,319898.0,106787.0,2020,11
+323,7182,David T Havard,Caerphilly,CF831NF,2,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,313792.0,185441.0,2021,8
+324,7198,Cig Calon Cymru 2010 CYF T/A Cig Calon Cymru,Llanelli,SA146RX,2,cutting plant (wild game) cutting plant (red) cutting plant (farmed game) cold store game handling establishment (wild game) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,257290.0,212608.0,2021,8
+325,8004,M C Kelly Limited,Crediton,EX175PB,1,cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat),,278398.0,102671.0,2021,8
+326,8005,2 Sisters Food Group Ltd,Cullompton,EX152PJ,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,303034.0,111131.0,2021,8
+327,8013,Creedy Carver Limited,Crediton,EX174AF,1,cutting plant (poultry) cold store slaughterhouse (poultry),yes,285070.0,102082.0,2021,8
+328,8016,Freemans of Newent Ltd,Gloucester,GL181HP,1,cutting plant (poultry) cold store meat preparation establishment slaughterhouse (poultry),yes,372983.0,225708.0,2021,8
+329,8019,OTTER VALLEY POULTRY LIMITED,Honiton,EX149QD,1,cutting plant (poultry) cold store mince meat establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,319898.0,106787.0,2021,8
 330,8025,MANOR FARM DEER,Bristol,BS484AQ,1,"slaughterhouse (red), slaughterhouse (farmed game)",yes,346894.0,167203.0,2019,2
-331,8037,University of Bristol,Bristol,BS405DU,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,345904.0,160742.0,2020,11
+331,8037,University of Bristol,Bristol,BS405DU,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,345904.0,160742.0,2021,8
 332,8046,DAWN TREBURLEY,Launceston,,1,"cutting plant (red), slaughterhouse (red), processing plant (meat), processing plant (stomachs)",yes,,,2018,4
 333,8061,TULIP FRESH MEATS (WESTERLEIGH),Bristol,BS378QZ,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,368898.0,179187.0,2020,8
-334,8068,COMBE MARTIN MEATS,Ilfracombe,EX340NS,1,cutting plant (red) cutting plant (wild game) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,258892.0,145896.0,2020,11
-335,8070,P J HAYMAN & SONS,Ottery St Mary,EX111PQ,1,cutting plant (red) slaughterhouse (red),yes,312443.0,96569.0,2020,11
+334,8068,COMBE MARTIN MEATS,Ilfracombe,EX340NS,1,cutting plant (red) cutting plant (wild game) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,258892.0,145896.0,2021,8
+335,8070,P J HAYMAN & SONS,Ottery St Mary,EX111PQ,1,cutting plant (red) slaughterhouse (red),yes,312443.0,96569.0,2021,8
 336,8071,Dawn West Devon,Okehampton,,1,"slaughterhouse (red), processing plant (stomachs)",yes,,,2018,4
-337,8072,P J KING & SON,Gloucester,GL4 0UG,1,cold store slaughterhouse (red),yes,,,2020,11
+337,8072,P J KING & SON,Gloucester,GL4 0UG,1,cold store slaughterhouse (red),yes,,,2021,8
 338,8073,ST MERRYN FOODS BODMIN,Bodmin,PL312QB,1,"cutting plant (red), slaughterhouse (red), meat preparation establishment",yes,208344.0,67135.0,2018,8
-339,8101,EAST HILL PRIDE,Ottery St Mary,EX111QQ,1,cutting plant (farmed game) cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (farmed game) slaughterhouse (red),yes,311915.0,94445.0,2020,11
-340,8113,H R Jasper and Son Ltd,Launceston,PL157JL,1,slaughterhouse (red),yes,228799.0,81803.0,2020,11
-341,8115,R J TREVARTHEN WHOLESALE BUTCHERS,Penryn,TR109AP,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,176362.0,35858.0,2020,11
-342,8117,Vivian Olds Ltd,Penzance,TR197HS,1,slaughterhouse (red),yes,136901.0,31523.0,2020,11
-343,8119,Alec Jarrett Limited,Bristol,BS309TN,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,368096.0,172169.0,2020,11
-344,8122,NANTEAGUE ABATTOIR,Truro,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-345,8145,J Broomhall Ltd,Gloucester,GL103AA,1,cutting plant (red) slaughterhouse (red),yes,377435.0,205363.0,2020,11
-346,8149,Bakers of Nailsea Limited,Nailsea,BS484DD,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,344418.0,169022.0,2020,11
-347,8165,Universal Traders Gloucester Ltd,Gloucester,GL2 8JX,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-348,8184,A C Hopkins (Taunton) Ltd,Taunton,TA3 5PN,1,slaughterhouse (red),yes,,,2020,11
+339,8101,EAST HILL PRIDE,Ottery St Mary,EX111QQ,1,cutting plant (red) cutting plant (farmed game) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red) slaughterhouse (farmed game),yes,311915.0,94445.0,2021,8
+340,8113,H R Jasper and Son Ltd,Launceston,PL157JL,1,slaughterhouse (red),yes,228799.0,81803.0,2021,8
+341,8115,R J TREVARTHEN WHOLESALE BUTCHERS,Penryn,TR109AP,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,176362.0,35858.0,2021,8
+342,8117,Vivian Olds Ltd,Penzance,TR197HS,1,slaughterhouse (red),yes,136901.0,31523.0,2021,8
+343,8119,Alec Jarrett Limited,Bristol,BS309TN,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,368096.0,172169.0,2021,8
+344,8122,NANTEAGUE ABATTOIR,Truro,,1,cutting plant (red) slaughterhouse (red),yes,,,2021,1
+345,8145,J Broomhall Ltd,Gloucester,GL103AA,1,cutting plant (red) slaughterhouse (red),yes,377435.0,205363.0,2021,8
+346,8149,Bakers of Nailsea Limited,Nailsea,BS484DD,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,344418.0,169022.0,2021,3
+347,8165,Universal Traders Gloucester Ltd,Gloucester,GL2 8JX,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2021,8
+348,8184,A C Hopkins (Taunton) Ltd,Taunton,TA3 5PN,1,slaughterhouse (red),yes,,,2021,8
 349,8189,C M Howard and Sons,Frome,BA111PT,1,slaughterhouse (red),yes,377795.0,147904.0,2019,11
-350,8191,C SNELL WHOLESALE,Chard,TA202NY,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,332379.0,104495.0,2020,11
-351,8193,STRAP ORCHARD ABATTOIR,Wincanton,BA9 9EE,1,slaughterhouse (red),yes,,,2020,11
-352,8201,F Drury & Sons Limited,Swindon,SN4 7PF,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-353,8207,ABP STURMINSTER,Sturminster Newton,DT101HA,1,processing plant (meat) slaughterhouse (red),yes,380450.0,115269.0,2020,11
-354,8216,ABP Yetminster,Sherborne,DT9 6HQ,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
+350,8191,C SNELL WHOLESALE,Chard,TA202NY,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,332379.0,104495.0,2021,8
+351,8193,STRAP ORCHARD ABATTOIR,Wincanton,BA9 9EE,1,slaughterhouse (red),yes,,,2021,8
+352,8201,F Drury & Sons Limited,Swindon,SN4 7PF,1,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+353,8207,ABP STURMINSTER,Sturminster Newton,DT101HA,1,processing plant (meat) slaughterhouse (red),yes,380450.0,115269.0,2021,8
+354,8216,ABP Yetminster,Sherborne,DT9 6HQ,1,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
 355,8217,S J NORMAN  & SONS,Bridport,DT6 3SF,1,cutting plant (red) cold store slaughterhouse (red),yes,,,2020,11
-356,8229,W S CLARKE & SONS,Salisbury,SP5 5ND,1,slaughterhouse (red),yes,,,2020,11
-357,8231,Stillmans (Somerset) Ltd,Taunton,TA2 6PX,1,slaughterhouse (red),yes,,,2020,11
-358,8241,T & H Lobb Limited,Bodmin,PL305LY,1,cutting plant (poultry) cutting plant (wild game) cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,201402.0,66755.0,2020,11
-359,8249,H F Stiles & Son Ltd,Chippenham,SN152ED,1,cutting plant (red) cold store slaughterhouse (red),yes,396147.0,165951.0,2020,11
-360,8250,W J PEARCE  AND SONS,Bristol,BS408PR,1,slaughterhouse (red),yes,357314.0,163112.0,2020,11
-361,8285,ABP LANGPORT,Langport,TA109HG,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,342868.0,126218.0,2020,11
-362,8297,Hampshire Game Ltd,Andover,SP119JE,1,cold store game handling establishment (wild game) mince meat establishment,,432342.0,150750.0,2020,11
-363,8301,Gages Farm Ltd,Ashburton,,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-364,8308,J V Richards (Rietfontein) Ltd,Truro,,1,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
-365,8342,CORNISH FARMHOUSE BACON COMPANY,Holsworthy,EX226LE,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,227871.0,98585.0,2020,11
-366,8354,C and S Meats Ltd,Sherbourne,DT9 6HX,1,cutting plant (poultry) cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-367,8357,J AND J FARMERS ABATTOIR,Holsworthy,EX226RL,1,cutting plant (red) slaughterhouse (red),yes,229755.0,97102.0,2020,11
+356,8229,W S CLARKE & SONS,Salisbury,SP5 5ND,1,slaughterhouse (red),yes,,,2021,8
+357,8231,Stillmans (Somerset) Ltd,Taunton,TA2 6PX,1,slaughterhouse (red),yes,,,2021,8
+358,8241,T & H Lobb Limited,Bodmin,PL305LY,1,cutting plant (poultry) cutting plant (red) cutting plant (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,201402.0,66755.0,2021,8
+359,8249,H F Stiles & Son Ltd,Chippenham,SN152ED,1,cutting plant (red) cold store slaughterhouse (red),yes,396147.0,165951.0,2021,8
+360,8250,W J PEARCE  AND SONS,Bristol,BS408PR,1,slaughterhouse (red),yes,357314.0,163112.0,2021,8
+361,8285,ABP LANGPORT,Langport,TA109HG,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,342868.0,126218.0,2021,8
+362,8297,Hampshire Game Ltd,Andover,SP119JE,1,cold store game handling establishment (wild game) mince meat establishment,,432342.0,150750.0,2021,8
+363,8301,Gages Farm Ltd,Ashburton,,1,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2021,8
+364,8308,J V Richards (Rietfontein) Ltd,Truro,,1,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+365,8342,CORNISH FARMHOUSE BACON COMPANY,Holsworthy,EX226LE,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,227871.0,98585.0,2021,8
+366,8354,C and S Meats Ltd,Sherbourne,DT9 6HX,1,cutting plant (poultry) cutting plant (red) game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+367,8357,J AND J FARMERS ABATTOIR,Holsworthy,EX226RL,1,cutting plant (red) slaughterhouse (red),yes,229755.0,97102.0,2021,8
 368,8369,Tideford Abattoir Limited,Saltash,PL125HN,1,slaughterhouse (red),yes,234936.0,59845.0,2019,3
-369,8389,Everleigh Farm Shop Ltd,Marlborough,SN8 3EY,1,game handling establishment (wild game),,,,2020,11
-370,8391,CELTIC FISH & GAME,St Ives,TR262JH,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) re-wrappingand repackaging establishment,,150794.0,39564.0,2020,11
-371,8392,Wiltshire Game Ltd,Salisbury,SP3 6JT,1,game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2020,11
+369,8389,Everleigh Farm Shop Ltd,Marlborough,SN8 3EY,1,game handling establishment (wild game),,,,2021,5
+370,8391,CELTIC FISH & GAME,St Ives,TR262JH,1,cutting plant (red) cutting plant (poultry) cold store game handling establishment (wild game) re-wrappingand repackaging establishment,,150794.0,39564.0,2021,8
+371,8392,Wiltshire Game Ltd,Salisbury,SP3 6JT,1,game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2021,8
 372,9001,ABP Holdings Ltd (Trading as ABP (Newry),NEWRY,BT342PD,4,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,10
-373,9012,Dunbia (Northern Ireland),DUNGANNON ,BT701NJ,4,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) processing plant (rendered animal fats) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-374,9016,Foyle Meats Ltd,LONDONDERRY,BT476TJ,4,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-375,9021,William Grant & Co Ltd,LONDONDERRY ,BT488JP,4,cutting plant (red) cold store processing plant (meat) slaughterhouse (red),yes,,,2020,11
-376,9023,Linden Foods Ltd,DUNGANNON ,BT701NJ,4,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-377,9033,ABP(Lurgan) Ltd,CRAIGAVON,BT679JD,4,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-378,9042,Foyle Omagh,OMAGH,BT790BQ,4,cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2020,11
-379,9045,Cranswick Country Foods (Ballymena),BALLYMENA,BT421EA,4,cutting plant (red) mince meat establishment processing plant (meat) slaughterhouse (red),yes,,,2020,11
-380,9052,Karro Food Group Ltd,COOKSTOWN ,BT808PJ,4,cutting plant (red) meat preparation establishment processing plant (stomachs) processing plant (meat) slaughterhouse (red),yes,,,2020,11
-381,9056,W D Meats,COLERAINE,BT522JR,4,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-382,9080,Primestock Meats,Lurgan,BT679JD,4,slaughterhouse (red),yes,,,2020,11
-383,9131,Lakeview Farm Meats Ltd,Crumlin,BT294RS,4,cutting plant (red) mince meat establishment slaughterhouse (red),yes,,,2020,11
-384,9132,Abercorn Estates,Newtownstewart    ,BT784EZ,4,cutting plant (red) game handling establishment (wild game) meat preparation establishment,,,,2020,11
-385,9502,Moy Park Ltd,DUNGANNON ,BT716LN,4,cutting plant (poultry) meat preparation establishment mechanically separated meat establishment processing plant (meat) slaughterhouse (poultry),yes,,,2020,11
+373,9012,Dunbia (Northern Ireland),DUNGANNON ,BT701NJ,4,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) processing plant (rendered animal fats) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,2
+374,9016,Foyle Meats Ltd,LONDONDERRY,BT476TJ,4,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2021,8
+375,9021,William Grant & Co Ltd,LONDONDERRY ,BT488JP,4,cutting plant (red) cold store processing plant (meat) slaughterhouse (red),yes,,,2021,8
+376,9023,Linden Foods Ltd,DUNGANNON ,BT701NJ,4,cutting plant (red) cutting plant (poultry) cold store mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+377,9033,ABP(Lurgan) Ltd,CRAIGAVON,BT679JD,4,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+378,9042,Foyle Omagh,OMAGH,BT790BQ,4,cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,,,2021,8
+379,9045,Cranswick Country Foods (Ballymena),BALLYMENA,BT421EA,4,cutting plant (red) mince meat establishment processing plant (meat) slaughterhouse (red),yes,,,2021,8
+380,9052,Karro Food Group Ltd,COOKSTOWN ,BT808PJ,4,cutting plant (red) meat preparation establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+381,9056,W D Meats,COLERAINE,BT522JR,4,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+382,9080,Primestock Meats,Lurgan,BT679JD,4,slaughterhouse (red),yes,,,2021,8
+383,9131,Lakeview Farm Meats Ltd,Crumlin,BT294RS,4,cutting plant (red) mince meat establishment slaughterhouse (red),yes,,,2021,8
+384,9132,Abercorn Estates,Newtownstewart    ,BT784EZ,4,cutting plant (wild game) game handling establishment (wild game) meat preparation establishment,,,,2021,8
+385,9502,Moy Park Ltd,DUNGANNON ,BT716LN,4,cutting plant (poultry) meat preparation establishment mechanically separated meat establishment processing plant (meat) slaughterhouse (poultry),yes,,,2021,8
 386,9508,H.K. Dickey(t/a Dickeys Poultry),Cullybackey,BT421EG,4,"cutting plant (poultry), slaughterhouse (poultry), meat preparation establishment, processing plant (meat)",yes,,,2018,5
-387,9509,Moy Park Ballymena,BALLYMENA       ,BT423HA,4,cutting plant (poultry) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2020,11
-388,9518,McKeown Fine Foods Ltd,BALLYMENA,BT448RW,4,cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2020,11
-389,9552,Kearns Poultry,BALLYMENA ,BT449AA,4,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
-390,9554,Rockvale Poultry,ARMAGH,BT619ND,4,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
+387,9509,Moy Park Ballymena,BALLYMENA       ,BT423HA,4,cutting plant (poultry) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2021,8
+388,9518,McKeown Fine Foods Ltd,BALLYMENA,BT448RW,4,cutting plant (poultry) meat preparation establishment processing plant (meat) slaughterhouse (poultry),yes,,,2021,8
+389,9552,Kearns Poultry,BALLYMENA ,BT449AA,4,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
+390,9554,Rockvale Poultry,ARMAGH,BT619ND,4,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2021,8
 391,GX401,State of Guernsey Abattoir,Guernsey,GY2 4JN,5,slaughterhouse (red),yes,,,2019,8
-392,4014,Freemans of Newent Limited,Hereford,HR4 9PB,1,cutting plant (poultry) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,11
+392,4014,Freemans of Newent Limited,Hereford,HR4 9PB,1,cutting plant (poultry) cold store mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
 393,5001,Bernard Matthews Foods Ltd,Norwich,NR9 5QD,1,"cold store, re-wrappingand repackaging establishment, cutting plant (poultry), slaughterhouse (poultry), meat preparation establishment",yes,,,2018,3
-394,1184,The Ardgay Game Factory Ltd,Sutherland,,3,cutting plant (wild game) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment,,,,2020,11
-395,7132,Farmers Fresh (Wales) Limited,Wrexham,LL130TS,2,cutting plant (red) cold store slaughterhouse (red),yes,337336.0,347909.0,2020,11
-396,1598,Dunbia (UK),Saltcoats,,3,cutting plant (red) cold store mince meat establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-397,2100,Dunbia Carnaby,Bridlington,,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-398,2388,Dunbia Cumbria,Ulverston,,1,processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
+394,1184,The Ardgay Game Factory Ltd,Sutherland,,3,cutting plant (wild game) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment,,,,2021,8
+395,7132,Farmers Fresh (Wales) Limited,Wrexham,LL130TS,2,cutting plant (red) cold store slaughterhouse (red),yes,337336.0,347909.0,2021,8
+396,1598,Dunbia (UK),Saltcoats,,3,cutting plant (red) cold store mince meat establishment processing plant (meat) processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+397,2100,Dunbia Carnaby,Bridlington,,1,cutting plant (red) cold store processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+398,2388,Dunbia Cumbria,Ulverston,,1,processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
 399,2630,Agro Foods (Ashford) Limited,Ashford,,1,cutting plant (red)  cold store  slaughterhouse (red),yes,,,2019,8
 400,4030,Northern Poultry UK Limited,Bolton,BL3 6AU,1,"cutting plant (poultry), slaughterhouse (poultry)",yes,,,2018,9
-401,5106,Dunbia Cardington,Bedford,MK443SB,1,cutting plant (red) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,508818.0,249106.0,2020,11
+401,5106,Dunbia Cardington,Bedford,MK443SB,1,cutting plant (red) mince meat establishment processing plant (stomachs) slaughterhouse (red),yes,508818.0,249106.0,2021,8
 402,8046,Dunbia  Treburley,Launceston,,1,"cutting plant (red), slaughterhouse (red), processing plant (meat)",yes,,,2019,3
-403,8071,Dunbia West Devon,Okehampton,,1,processing plant (stomachs) slaughterhouse (red),yes,,,2020,11
-404,ZT004FE,Edgewater Foods Ltd,Dungannon,BT715BP,4,fresh fishery products plant (fish) game handling establishment (wild game),,,,2020,11
-405,1216,Pasture-to-Plate,Gordon,,3,cutting plant (red) slaughterhouse (red),yes,,,2020,11
+403,8071,Dunbia West Devon,Okehampton,,1,processing plant (stomachs) slaughterhouse (red),yes,,,2021,8
+404,ZT004FE,Edgewater Foods Ltd,Dungannon,BT715BP,4,fresh fishery products plant (fish) game handling establishment (wild game),,,,2021,8
+405,1216,Pasture-to-Plate,Gordon,,3,cutting plant (red) slaughterhouse (red),yes,,,2021,8
 406,2449,Gressingham Game Limited,Richmond,DL107SN,1,cutting plant (red) cold store game handling establishment (wild game) meat preparation establishment re-wrappingand repackaging establishment,,422365.0,499779.0,2019,11
-407,2450,AL UMMAH LIMITED,Barnsley,S72 9BG,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
-408,2670,Manifold Valley Meats,Leek,ST137TT,1,cutting plant (red) cutting plant (poultry) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,408365.0,353435.0,2020,11
-409,4073,ABP ELLESMERE,Ellesmere,SY129BL,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (rendered animal fats) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,339643.0,328883.0,2020,11
+407,2450,AL UMMAH LIMITED,Barnsley,S72 9BG,1,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
+408,2670,Manifold Valley Meats,Leek,ST137TT,1,cutting plant (red) cutting plant (poultry) cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,408365.0,353435.0,2021,8
+409,4073,ABP ELLESMERE,Ellesmere,SY129BL,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (rendered animal fats) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,339643.0,328883.0,2021,8
 410,5264,Sweetland Ltd,Great Dunmow,CM6 1DA,1,slaughterhouse (red),yes,,,2019,1
-411,1106,Kepak Group Limited,Aberdeen,,3,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
-412,6360,Medstead Meats Ltd,Hampshire,GU345NN,1,cutting plant (wild game) cold store game handling establishment (wild game) meat preparation establishment,,465543.0,138345.0,2020,11
-413,7176,Kepak Food Group Limited,Merthyr Tydfil,CF482TA,2,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,307802.0,208695.0,2020,11
+411,1106,Kepak Group Limited,Aberdeen,,3,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+412,6360,Medstead Meats Ltd,Hampshire,GU345NN,1,cutting plant (wild game) cold store game handling establishment (wild game) meat preparation establishment,,465543.0,138345.0,2021,8
+413,7176,Kepak Food Group Limited,Merthyr Tydfil,CF482TA,2,cutting plant (red) cold store re-wrappingand repackaging establishment slaughterhouse (red),yes,307802.0,208695.0,2021,8
 414,8073,Kepak Food Group Limited,Bodmin,PL312QB,1,"cutting plant (red), slaughterhouse (red), meat preparation establishment",yes,208344.0,67135.0,2018,10
 415,2662,Norfolk Meat Traders Ltd,Banham,NR162BX,1,slaughterhouse (red),yes,604748.0,288767.0,2019,7
 416,8073,St Merryn Bodmin,Bodmin,PL312QB,1,cutting plant (red) meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,208344.0,67135.0,2020,11
-417,2723,Robinson Wild Foods Ltd,Cirencester,GL7 7LG,1,cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment,,,,2020,11
+417,2723,Robinson Wild Foods Ltd,Cirencester,GL7 7LG,1,cutting plant (wild game) cold store game handling establishment (wild game) mince meat establishment,,,,2021,8
 418,8338,Colquite Estates Ltd,Bodmin,PL303AF,1,"collection centre (wild game), cutting plant (wild game), game handling establishment (wild game)",,205253.0,70981.0,2019,2
-419,IOM1,Isle of Man Meats,Isle of Man,IM4 4QE,7,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-420,2399,Chai Meats Limited,Bradford,BD3 9RD,1,cutting plant (poultry) cutting plant (red) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2020,11
-421,5218,Arthur J Howell & Son,Wells Next The Sea,NR231AN,1,cutting plant (red) slaughterhouse (red),yes,591678.0,343666.0,2020,11
+419,IOM1,Isle of Man Meats,Isle of Man,IM4 4QE,7,cutting plant (red) slaughterhouse (red),yes,,,2021,8
+420,2399,Chai Meats Limited,Bradford,BD3 9RD,1,cutting plant (poultry) cutting plant (red) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,,,2021,8
+421,5218,Arthur J Howell & Son,Wells Next The Sea,NR231AN,1,cutting plant (red) slaughterhouse (red),yes,591678.0,343666.0,2021,8
 422,ZT004,Edgewater Foods Ltd,Dungannon,BT715BP,4,"cutting plant (wild game), game handling establishment (wild game), fresh fishery products plant (fish)",,,,2019,6
-423,7023,Cig Eryri - Snowdonia Meats Cyf,Blaenau Ffestiniog,LL414PY,2,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,271610.0,340732.0,2020,11
+423,7023,Cig Eryri - Snowdonia Meats Cyf,Blaenau Ffestiniog,LL414PY,2,cutting plant (red) mince meat establishment meat preparation establishment slaughterhouse (red),yes,271610.0,340732.0,2021,8
 424,4015,A.S. Audhali Farm Gate Fresh Poultry Limited,Hatton,CV357HZ,1,"cutting plant (poultry), slaughterhouse (poultry)",yes,422243.0,268854.0,2019,6
-425,2368,J S Quality Meats Limited,Uttoxeter,ST145AA,1,cutting plant (red) cutting plant (farmed game) cold store game handling establishment (wild game) slaughterhouse (red),yes,409599.0,334548.0,2020,11
+425,2368,J S Quality Meats Limited,Uttoxeter,ST145AA,1,cutting plant (red) cutting plant (farmed game) cold store slaughterhouse (red),yes,409599.0,334548.0,2021,8
 426,2748,S and Y abattoir Ltd,Bacup,OL130ET,1,slaughterhouse (red),yes,385862.0,421772.0,2019,12
-427,3007,Faccenda Foods Limited (T/A Avara Foods),Brackley,NN137EX,1,cutting plant (poultry) meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,459223.0,236768.0,2020,11
-428,4015,Shafa Farm Limited,Hatton,CV357HZ,1,cutting plant (poultry) slaughterhouse (poultry),yes,422243.0,268854.0,2020,11
-429,4026,Faccenda Foods Limited (T/A Avara Foods),Scropton,DE655PS,1,cutting plant (poultry) cold store meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,419934.0,330053.0,2020,11
+427,3007,Faccenda Foods Limited (T/A Avara Foods),Brackley,NN137EX,1,cutting plant (poultry) cold store meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,459223.0,236768.0,2021,8
+428,4015,Shafa Farm Limited,Hatton,CV357HZ,1,cutting plant (poultry) slaughterhouse (poultry),yes,422243.0,268854.0,2021,8
+429,4026,Faccenda Foods Limited (T/A Avara Foods),Scropton,DE655PS,1,cutting plant (poultry) cold store meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (poultry),yes,419934.0,330053.0,2021,8
 430,7226,Picton Quality Meats Limited,Pembrokeshire,SA624BS,2,cutting plant (red)  slaughterhouse (red),yes,196290.0,218525.0,2019,8
 431,2662,Moor Farm Meats Limited,Banham,NR162BX,1,slaughterhouse (red),yes,604748.0,288767.0,2020,3
-432,2725,Hill Ash Game and Meat,Petersfield,GU315ND,1,cutting plant (wild game) cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,480817.0,120585.0,2020,11
-433,4199,Leansale Limited (TA Roopyal Laham Halaal Butchers),Birmingham,B11 4AA,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
-434,4227,Manchester Abattoir Ltd,Stockport,SK4 1BJ,1,cold store slaughterhouse (red),yes,,,2020,11
-435,9301,DMP Foods Ltd,Crumlin,BT294RS,4,slaughterhouse (red),yes,,,2020,11
-436,2751,Sporting Estates Game Ltd,Boston,PE227RW,1,cutting plant (wild game) game handling establishment (wild game),,527603.0,360901.0,2020,11
-437,2755,Field to Fork Game Ltd,York,YO626SN,1,game handling establishment (wild game) meat preparation establishment re-wrappingand repackaging establishment,,472695.0,485584.0,2020,11
-438,7226,Euro Farm Wales,Pembrokeshire,SA624BS,2,slaughterhouse (red),yes,196290.0,218525.0,2020,11
-439,2750,Cranswick Country Foods Eye,Yaxley,IP238BW,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,612907.0,274817.0,2020,11
-440,5008,Shazan Foods Limited,Eye,IP237AJ,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (fish) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,614371.0,273759.0,2020,11
-441,1100,2 Sisters Food Group Ltd,Coupar Angus,,3,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2020,11
-442,2762,H M Venison Ltd,Barnsley,S75 3DR,1,game handling establishment (wild game) slaughterhouse (red),yes,,,2020,11
-443,2761,Westcountry Premium Venison Ltd,Launceston,PL158QN,1,cutting plant (wild game) cutting plant (farmed game) cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,220362.0,84902.0,2020,11
+432,2725,Hill Ash Game and Meat,Petersfield,GU315ND,1,cutting plant (wild game) cutting plant (poultry) cutting plant (red) cold store game handling establishment (wild game) mince meat establishment meat preparation establishment,,480817.0,120585.0,2021,8
+433,4199,Leansale Limited (TA Roopyal Laham Halaal Butchers),Birmingham,B11 4AA,1,cutting plant (red) slaughterhouse (red),yes,,,2021,7
+434,4227,Manchester Abattoir Ltd,Stockport,SK4 1BJ,1,cold store slaughterhouse (red),yes,,,2021,8
+435,9301,DMP Foods Ltd,Crumlin,BT294RS,4,slaughterhouse (red),yes,,,2021,8
+436,2751,Sporting Estates Game Ltd,Boston,PE227RW,1,cutting plant (wild game) game handling establishment (wild game),,527603.0,360901.0,2021,8
+437,2755,Field to Fork Game Ltd,York,YO626SN,1,game handling establishment (wild game) meat preparation establishment re-wrappingand repackaging establishment,,472695.0,485584.0,2021,8
+438,7226,Euro Farm Wales,Haverfordwest,SA624BS,2,slaughterhouse (red),yes,196290.0,218525.0,2021,8
+439,2750,Cranswick Country Foods Eye,Yaxley,IP238BW,1,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,612907.0,274817.0,2021,8
+440,5008,Shazan Foods Limited,Eye,IP237AJ,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment meat preparation establishment mechanically separated meat establishment processing plant (fish) re-wrappingand repackaging establishment slaughterhouse (poultry),yes,614371.0,273759.0,2021,8
+441,1100,2 Sisters Food Group Ltd,Coupar Angus,,3,cutting plant (poultry) meat preparation establishment slaughterhouse (poultry),yes,,,2021,8
+442,2762,H M Venison Ltd,Barnsley,S75 3DR,1,game handling establishment (wild game) slaughterhouse (red),yes,,,2021,8
+443,2761,Westcountry Premium Venison Ltd,Launceston,PL158QN,1,cutting plant (wild game) cutting plant (farmed game) cutting plant (red) cold store mince meat establishment meat preparation establishment slaughterhouse (red),yes,220362.0,84902.0,2021,8
 444,2768,Farm Fresh Quality Foods Co. Ltd,Ashford,TN270JL,1,cutting plant (poultry) cutting plant (red) cold store mince meat establishment re-wrappingand repackaging establishment slaughterhouse (red),yes,595437.0,148950.0,2020,9
-445,1160,Millers of Speyside,Grantown-on-Spey,,3,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
-446,1221,SAC Commercial Ltd,Penicuik,,3,cutting plant (poultry) slaughterhouse (poultry),yes,,,2020,11
-447,2763,Pickstock Foods Ltd,Harthorne,DE117AT,1,cutting plant (red) cold store slaughterhouse (red),yes,432883.0,321560.0,2020,11
+445,1160,Millers of Speyside,Grantown-on-Spey,,3,cutting plant (red) mince meat establishment meat preparation establishment re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+446,1221,SAC Commercial Ltd,Penicuik,,3,cutting plant (poultry) slaughterhouse (poultry),yes,,,2021,8
+447,2763,Pickstock Foods Ltd,Harthorne,DE117AT,1,cutting plant (red) cold store slaughterhouse (red),yes,432883.0,321560.0,2021,8
 448,4085,Pilgrim’s Pride Ltd,Dukinfield,SK164HY,1,cutting plant (red) meat preparation establishment mechanically separated meat establishment processing plant (meat) slaughterhouse (red),yes,394022.0,398626.0,2020,9
 449,5091,Pilgrim’s Pride Ltd,Spalding,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,9
 450,8061,Pilgrim’s Pride Ltd,Bristol,BS378QZ,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,368898.0,179187.0,2020,9
-451,1190,Simpson Game Ltd,Newtonmore,,3,game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2020,11
+451,1190,Simpson Game Ltd,Newtonmore,,3,game handling establishment (wild game) mince meat establishment meat preparation establishment,,,,2021,8
 452,4085,Pilgrim???s Pride Ltd - Ashton,Dukinfield,SK164HY,1,cutting plant (red) meat preparation establishment mechanically separated meat establishment processing plant (meat) slaughterhouse (red),yes,394022.0,398626.0,2020,11
-453,5091,Dalehead Foods - Spalding,Spalding,,1,cutting plant (red) slaughterhouse (red),yes,,,2020,11
+453,5091,Dalehead Foods - Spalding,Spalding,PE126EP,1,cutting plant (red) processing plant (stomachs) slaughterhouse (red),yes,526332.0,323674.0,2021,8
 454,8061,Pilgrim???s Pride Ltd - Westerleigh,Bristol,BS378QZ,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) processing plant (meat) slaughterhouse (red),yes,368898.0,179187.0,2020,11
-455,9001,ABP Newry,NEWRY,BT342PD,4,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2020,11
+455,9001,ABP Newry,NEWRY,BT342PD,4,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+456,4085,Pilgrims Pride Ltd - Ashton,Dukinfield,SK164HY,1,cutting plant (red) meat preparation establishment mechanically separated meat establishment processing plant (meat) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,394022.0,398626.0,2021,8
+457,8061,Pilgrims Pride Ltd - Westerleigh,Bristol,BS378QZ,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (stomachs) processing plant (meat) slaughterhouse (red),yes,368898.0,179187.0,2021,8
+458,8073,Kepak Group Limited,Bodmin,PL312QB,1,cutting plant (red) meat preparation establishment processing plant (stomachs) slaughterhouse (red),yes,208344.0,67135.0,2021,8
+459,7015,Dunbia (UK),Llanybydder,SA409QE,2,cutting plant (red) processing plant (meat) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,253005.0,244560.0,2021,8
+460,LY003,Port of Lancaster Smokehouse Ltd,Lancaster,LA2 0DB,1,game handling establishment (wild game) processing plant (dairy) processing plant (meat) processing plant (fish),,,,2021,8
+461,2662,Anglia Meat Processors Limited,Banham,NR162BX,1,slaughterhouse (red),yes,604748.0,288767.0,2021,8
+462,9012,Dunbia Dungannon a division of Dunbia (UK),DUNGANNON ,BT701NJ,4,cutting plant (red) cold store mince meat establishment meat preparation establishment processing plant (meat) processing plant (rendered animal fats) processing plant (stomachs) re-wrappingand repackaging establishment slaughterhouse (red),yes,,,2021,8
+463,2060,Karro Food Limited (T/A Malton Bacon Factory),Malton,YO179HG,1,cutting plant (red) mince meat establishment meat preparation establishment processing plant (meat) slaughterhouse (red),yes,480288.0,471426.0,2021,8
